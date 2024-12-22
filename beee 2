@@ -1,0 +1,4061 @@
+
+Question 1: START
+In a parallel circuit with two resistors, R1 and R2, the total resistance is given by:
+Question 1: END
+
+Option_a: R=R1+R2
+Option_b: R=(1/R1) + (1/R2)
+Option_c: (R1 R2)/ (R1+R2)
+Option_d: (R1+R2)/2
+correct_option: c).(R1 R2)/ (R1+R2)
+
+Question 2: START
+According to Kirchhoff's Current Law (KCL), the algebraic sum of currents at a node is:
+Question 2: END
+
+Option_a: Zero
+Option_b: Equal to the total voltage at the node
+Option_c: Equal to the sum of resistances at the node
+Option_d:  Dependent on the values of current
+correct_option: a) Zero
+
+
+Question 3: START
+Ohm’s Law states that the current through a conductor between two points is directly proportional to the:
+Question 3: END
+
+Option_a: Resistance between the points
+Option_b: Voltage between the points
+Option_c: Temperature difference
+Option_d: Power dissipated
+correct_option: b) Voltage between the points
+
+
+Question 4: START
+If a resistor of 10 Ω is connected across a 5 V battery, what is the current flowing through the resistor?
+Question 4: END
+
+Option_a: 0.5 A
+Option_b: 1 A
+Option_c: 2 A
+Option_d: 5 A
+correct_option: a)0.5 A
+
+
+Question 5: START
+For a simple circuit with a 12 V battery and two series resistors, R1=2 Ω and R2=4Ω, what is the voltage drop across R2?
+Question 5: END
+
+Option_a: 4V
+Option_b: 6V
+Option_c: 8V
+Option_d: 12 V
+correct_option: c)8 V
+
+Question 6: START
+Which of the following statements about Kirchhoff's Voltage Law (KVL) is correct?
+Question 6: END
+
+Option_a: The sum of all voltage drops around a closed loop is always positive.
+Option_b: The sum of all voltage drops around a closed loop equals the total resistance.
+Option_c: The sum of all voltage drops around a closed loop is equal to the sum of all current sources.
+Option_d:  The sum of all voltages around a closed loop is zero.
+correct_option: d)The sum of all voltages around a closed loop is zero.
+
+Question 7: START
+In a series circuit, the current flowing through each component is:
+Question 7: END
+
+Option_a: The same
+Option_b: Different
+Option_c: Dependent on the voltage
+Option_d:  Dependent on the resistance of each component
+correct_option: a) The same
+
+
+Question 8: START
+Two resistors of 5 Ω and 10 Ω are connected in parallel. If the current entering the parallel combination is 6 A, what is the current through the 10 Ω resistor?
+Question 8: END
+
+Option_a: 2 A 
+Option_b: 4 A
+Option_c: 5 A
+Option_d: 6 A 
+correct_option: a) 2 A
+
+Question 9: START
+If a 5 Ω resistor is connected in series with a 10 Ω resistor across a 15 V battery, what is the current in the circuit?
+Question 9: END
+
+Option_a: 1 A 
+Option_b: 4 A
+Option_c: 5 A
+Option_d: 6 A 
+correct_option: a) 1 A
+
+Question 10: START
+Kirchhoff's Voltage Law (KVL) is based on the conservation of:
+Question 10: END
+
+Option_a: Charge
+Option_b: Energy
+Option_c: Momentum 
+Option_d: Mass
+correct_option: b) Energy
+
+
+
+Question 11: START
+Two resistors R1=3Ω and R2=6Ω, are connected in series across a 36 V source. What is the voltage across R2 using the voltage division rule?
+Question 11: END
+
+Option_a: 12 V
+Option_b: 18 V
+Option_c: 24 V 
+Option_d: 30 V
+correct_option: c) 24 V
+
+Question 12: START
+Three resistors R1=4Ω, R2=5Ω, and R3=6Ω are connected in series across a 45 V source. What is the voltage across R3 using the voltage division rule?
+Question 12: END
+
+Option_a: 10 V
+Option_b: 15 V
+Option_c: 20 V
+Option_d: 25 V
+correct_option: b) 15 V
+
+Question 13: START
+A circuit has two resistors R1=2Ω and R2=8Ω connected in parallel. If the total current entering the parallel combination is 20 A, what is the current through R1 using the current division rule?
+Question 13: END
+
+Option_a: 18 A
+Option_b: 10 A
+Option_c: 4 A
+Option_d: 2 A
+correct_option: a) 18 A
+
+Question 14: START
+Two resistors R1=3Ω and R2=12Ω, are connected in parallel across a 24 V source. What is the current through R1 using the current division rule?
+Question 14: END
+
+Option_a: 1 A
+Option_b: 2 A
+Option_c: 6 A
+Option_d: 8 A
+correct_option: d) 8 A
+
+
+
+Question 15: START
+In a series circuit with resistors R1=10Ω, R2=20Ω, and R3=30Ω connected to a 60 V battery, calculate the voltage drop across R1 using the voltage division rule.
+Question 15: END
+
+Option_a: 10 V
+Option_b: 15 V
+Option_c: 20 V 
+Option_d: 30 V
+correct_option: a) 10 V
+
+Question 16: START
+Three resistors R1=2Ω, R2=4Ω, and R3=8Ω are connected in parallel. If the total current entering the parallel combination is 24 A, what is the current through R3 using the current division rule?
+Question 16: END
+
+Option_a: 3.4 A
+Option_b: 8 A
+Option_c: 12 A 
+Option_d: 18 A
+correct_option: a) 3.4 A
+
+Question 17: START
+For a series circuit with resistors R1=1Ω, R2=4Ω, and R3=5Ω, the total resistance is 10 Ω. If the circuit is powered by a 20 V source, what is the voltage drop across R2 using the voltage division rule?
+Question 17: END
+
+Option_a: 2 V
+Option_b: 8 V
+Option_c: 10 V
+Option_d: 5 V
+correct_option: b) 8 V
+
+Question 18: START
+In a parallel circuit, R1=6Ω and R2=3Ω with a total current of 18 A flowing into the combination. Calculate the current through R1 using the current division rule.
+Question 18: END
+
+Option_a: 6 A
+Option_b: 9 A
+Option_c: 12 A
+Option_d: 15 A
+correct_option: a) 6 A
+
+Question 19: START
+A 10 V source is connected across two resistors, R1=3Ω and R2=7Ω, in series. What is the voltage across R1 using the voltage division rule?
+Question 19: END
+
+Option_a: 3 V
+Option_b: 4 V
+Option_c: 5 V
+Option_d: 7 V
+correct_option: a) 3 V
+
+Question 20: START
+In a circuit with resistors R1=5Ω and R2=15Ω connected in parallel, the total current entering the combination is 40 A. Calculate the current through R2 using the current division rule.
+Question 20: END
+
+Option_a: 10 A
+Option_b: 20 A
+Option_c: 30 A
+Option_d: 40 A
+correct_option: a) 10 A
+
+Question 21: START
+Three resistors are connected in a star (Y) configuration with resistances RA=5Ω, RB=10Ω, and RC=15Ω. What is the equivalent resistance between two terminals AB after converting the network to a delta (Δ) configuration?
+Question 21: END
+
+Option_a: 15 Ω
+Option_b: 30 Ω
+Option_c: 50 Ω
+Option_d: 75 Ω
+correct_option: a) 15 Ω
+
+Question 22: START
+In a delta network, the resistances are given as RAB=12Ω, RBC=24Ω, and RCA=36Ω. What is the equivalent resistance RA in the star network?
+Question 22: END
+
+Option_a: 6 Ω
+Option_b: 8 Ω
+Option_c: 10 Ω
+Option_d: 12 Ω
+correct_option: a) 6 Ω
+
+Question 23: START
+For a delta network with resistances RAB=30Ω, RBC=60Ω, and RCA=90Ω, the equivalent star resistance RB is given by which formula?
+Question 23: END
+
+Option_a: RB=(RAB⋅RBC)/(RAB+RBC+RCA)
+Option_b: RB=(RBC⋅RCA)/(RAB+RBC+RCA)
+Option_c: RB=(RCA⋅RAB)/(RAB+RBC+RCA)
+Option_d: RB=(RAB⋅RBC⋅RCA)/(RAB+RBC+RCA)
+correct_option: a).RB=(RAB⋅RBC)/(RAB+RBC+RCA)
+
+Question 24: START
+In a star network, each resistor has a value of 10 Ω. After converting it to a delta network, what will be the value of each resistor in the delta configuration?
+Question 24: END
+
+Option_a: 10 Ω 
+Option_b: 20 Ω 
+Option_c: 30 Ω
+Option_d: 40 Ω
+correct_option: c) 30 Ω
+
+Question 25: START
+If a delta network has resistors RAB=6Ω, RBC=12Ω, and RCA=18Ω, find the equivalent star resistance RC.
+Question 25: END
+
+Option_a: 3 Ω
+Option_b: 4 Ω
+Option_c: 5 Ω
+Option_d: 6 Ω
+correct_option: d) 6 Ω	
+
+Question 26: START
+In a star network with resistances RA=2Ω, RB=3Ω, and RC=4Ω, what is the equivalent resistance between terminals after converting to a delta configuration?
+Question 26: END
+
+Option_a: 9 Ω
+Option_b: 12 Ω
+Option_c: 15 Ω
+Option_d: 6.5 Ω
+correct_option: d) 6.5 Ω
+
+Question 27: START
+A delta network has resistances RAB=10Ω, RBC=15Ω, and RCA=20Ω. What is the value of RA in the equivalent star network?
+Question 27: END
+
+Option_a: 5 Ω
+Option_b: 4.44 Ω
+Option_c: 10 Ω
+Option_d: 12 Ω
+correct_option: b) 4.44 Ω
+
+Question 28: START
+In a balanced delta network, each resistor has a resistance of 12 Ω. If this network is converted to a star configuration, what will be the resistance of each resistor in the star network?
+Question 28: END
+
+Option_a: 4 Ω
+Option_b: 8 Ω
+Option_c: 10 Ω
+Option_d: 10 Ω
+correct_option: a) 4 Ω
+
+Question 29: START
+Given a delta network with resistances RAB=8Ω, RBC=16Ω, and RCA=24Ω, what is the total resistance across terminals A and B after converting it to a star network?
+Question 29: END
+
+Option_a: 4 Ω
+Option_b: 6 Ω
+Option_c: 6.67 Ω
+Option_d: 12 Ω
+correct_option: c) 8 Ω
+
+Question 30: START
+In Thevenin’s Theorem, the Thevenin equivalent circuit for a linear two-terminal network consists of:
+Question 30: END
+
+Option_a: An ideal current source and a resistor in series
+Option_b: An ideal voltage source and a resistor in series
+Option_c: A capacitor and a resistor in parallel
+Option_d: An inductor and a resistor in parallel
+correct_option: b) An ideal voltage source and a resistor in series
+
+Question 31: START
+For a given circuit, the open-circuit voltage across terminals A and B is 12 V, and the equivalent resistance seen from these terminals is 4 Ω. What is the Thevenin equivalent voltage and resistance?
+Question 31: END
+
+Option_a: 6 V, 4 Ω
+Option_b: 12 V, 4 Ω
+Option_c: 12 V, 8 Ω
+Option_d: 24 V, 4 Ω
+correct_option: b) 12 V, 4 Ω
+
+Question 32: START
+In a circuit with a Thevenin equivalent voltage of 15 V and a Thevenin resistance of 5 Ω, what load resistance will maximize the power transferred to the load?
+Question 32: END
+
+Option_a: 2.5 Ω
+Option_b: 5 Ω
+Option_c: 10 Ω
+Option_d: 15 Ω
+correct_option: b) 5 Ω
+
+Question 33: START
+Thevenin’s Theorem is applicable only to circuits that are:
+Question 33: END
+
+Option_a: Linear and bilateral
+Option_b: Non-linear and unilateral
+Option_c: Linear and time-invariant
+Option_d: Non-linear and time-variant
+correct_option: a) Linear and bilateral
+
+Question 34: START
+If the load resistance RL is connected to a Thevenin equivalent circuit with a Thevenin voltage Vth=10V and Thevenin resistance Rth=5Ω, what is the current through RL when RL=5Ω?
+Question 34: END
+
+Option_a: 1 A
+Option_b: 2 A
+Option_c: 0.5 A
+Option_d: 10 A
+correct_option: a) 1 A
+
+Question 35: START
+In a circuit, the open-circuit voltage across two terminals is 20 V, and the short-circuit current across the same terminals is 5 A. What is the Thevenin resistance?
+Question 35: END
+
+Option_a: 2 Ω
+Option_b: 4 Ω
+Option_c: 5 Ω
+Option_d: 10 Ω
+correct_option: b) 4 Ω
+
+Question 36: START
+A complex circuit has a Thevenin equivalent voltage of 25 V and a Thevenin resistance of 50 Ω. If a 50 Ω load is connected to the Thevenin equivalent, what is the voltage across the load?
+Question 36: END
+
+Option_a: 12.5 V
+Option_b: 25 V
+Option_c: 50 V
+Option_d: 0 V
+correct_option: a) 12.5 V
+
+Question 37: START
+For maximum power transfer in a circuit, the load resistance RL should be:
+Question 37: END
+
+Option_a: Twice the Thevenin resistance
+Option_b: Half the Thevenin resistance
+Option_c: Equal to the Thevenin resistance
+Option_d: Very large compared to the Thevenin resistance
+correct_option: C) Equal to the Thevenin resistance
+
+
+Question 38: START
+A network has an internal Thevenin resistance of 10 Ω and a Thevenin voltage of 40 V. To maximize power transfer, what power is delivered to the load?
+Question 38: END
+
+Option_a: 40 W 
+Option_b: 80 W 
+Option_c: 160 W
+Option_d: 200 W 
+correct_option: a) 40 W
+
+Question 39: START
+For a circuit with Thevenin equivalent voltage Vth=12V and Thevenin resistance Rth=6Ω, what is the current through a load resistance RL=12Ω when connected across the terminals?
+Question 39: END
+
+Option_a: 0.66 A
+Option_b: 1 A
+Option_c: 1.5 A
+Option_d: 2 A
+correct_option: a) 0.66 A
+
+Question 40: START
+In Norton’s Theorem, the Norton equivalent circuit of a linear two-terminal network consists of:
+Question 40: END
+
+Option_a: An ideal current source and a resistor in series
+Option_b: An ideal voltage source and a resistor in series
+Option_c: An ideal current source and a resistor in parallel
+Option_d: A capacitor and an inductor in series
+correct_option: c) An ideal current source and a resistor in parallel
+
+Question41: START
+ In superposition theorem, when we consider the effect of one voltage source, all the other voltage sources are
+Question41: END
+
+Option_a: Shorted
+Option_b: Opened
+Option_c: Removed
+Option_d: Undisturbed
+correct_option: Shorted
+
+Question 42: START
+In superposition theorem, when we consider the effect of one current source, all the other voltage sources are
+Question42: END
+
+Option_a: Shorted
+Option_b: Opened
+Option_c: Removed
+Option_d: Undisturbed
+correct_option: Shorted
+
+Question43: START
+In superposition theorem, when we consider the effect of one voltage source, all the other current sources are
+Question43: END
+
+Option_a: Shorted
+Option_b: Opened
+Option_c: Removed
+Option_d: Undisturbed
+correct_option: Opened
+
+Question44: START
+In superposition theorem, when we consider the effect of one current source, all the other current sources are
+Question44: END
+
+Option_a: Shorted
+Option_b: Opened
+Option_c: Removed
+Option_d: Undisturbed
+correct_option: Opened
+
+Question45: START
+Superposition theorem is valid for
+Question45: END
+
+Option_a: Linear systems
+Option_b: Non-linear systems
+Option_c: Both linear and non-linear systems
+Option_d: Neither linear nor non-linear systems
+correct_option: Linear systems
+
+Question46: START
+Superposition theorem does not work for
+Question46: END
+
+Option_a: Current
+Option_b: Voltage
+Option_c: Power
+Option_d: Works for all: current, voltage and power
+correct_option: Power
+
+Question47: START
+Which of the following statements is/are correct regarding superposition theorem 
+(1). It can be used to calculate voltage , current and power
+(2). It can be used to calculate voltage and current in a circuit containing resistor , inductor and diode.
+(3). It can be used to calculate voltage and current in a circuit  having linear elements resistor , capacitor and inductor
+Question47: END
+
+Option_a: (1),(2) and  (3)
+Option_b: (1) and (2) only
+Option_c: (3) only
+Option_d: (3) and (2) only
+correct_option: (3) only
+
+Question48: START
+For applying the superposition theorem, we need
+Question48: END
+
+Option_a: No source
+Option_b: Only one source
+Option_c: Two or more sources
+Option_d: None of the options
+correct_option: Two or more sources
+
+Question49: START
+The maximum power drawn from source depends on __________ 
+Question49: END
+
+Option_a: Value of source resistance
+Option_b: Value of load resistance
+Option_c: Both source and load resistance
+Option_d: Neither source or load resistance
+correct_option: Value of load resistance
+
+Question50: START
+The maximum power is delivered from a source to its load when the load resistance is ______ the source resistance.
+Question50: END
+
+Option_a: greater than
+Option_b: less than
+Option_c: equal to 
+Option_d: less than or equal to
+correct_option: equal to
+
+Question51: START
+What is the principle of the transformer?
+Question51: END
+
+Option_a: Gauss law
+Option_b: Coulomb’s law
+Option_c: Electromagnetic induction
+Option_d: Ampere’s law
+correct_option: Electromagnetic induction
+
+Question52: START
+Voltage induced in secondary coil of transformer is given by__________________.
+Question52: END
+
+Option_a: NP*VP/NS
+Option_b: NS*VP/NP
+Option_c: (NP/VP)*NS
+Option_d: NP/(VP*NS)
+correct_option: NS*VP/NP
+
+Question53: START
+According to ____________________ induced e.m.f. opposes the cause due to which they
+are produced
+Question53: END
+
+Option_a: Lenz law
+Option_b: Newton’s law
+Option_c: Faraday’s law
+Option_d: Coulomb’s law
+correct_option: Lenz law
+
+Question54: START
+The emf induced in a coil having N turns is?
+Question54: END
+
+Option_a: E = ϕ/t
+Option_b: E = N*ϕ/t
+Option_c: E = N*ϕ*t
+Option_d: E = N 2 *ϕ*t
+correct_option: E = N*ϕ/t
+
+Question55: START
+According to _________________ induced emf is equal to rate of change of magnetic flux
+Question55: END
+
+Option_a: Newton’s law
+Option_b: Lenz law
+Option_c: Faraday’s law
+Option_d: Coulomb’s law
+correct_option: Faraday’s law
+
+Question56: START
+Transformer cores are laminated to reduce
+Question56: END
+
+Option_a: Copper loss
+Option_b: Eddy current loss
+Option_c: Hysteresis loss
+Option_d: All of the above
+correct_option: Eddy current loss
+
+Question57: START
+To reduce hysteresis loss, transformer core is made of
+Question57: END
+
+Option_a: Silicon steel
+Option_b: Aluminium
+Option_c: Copper
+Option_d: Lead
+correct_option: Silicon steel
+
+Question58: START
+If the transformer is loaded then the secondary terminal voltage ______ for lagging power
+factor.
+Question58: END
+
+Option_a: falls
+Option_b: rise
+Option_c: double
+Option_d: none of the above
+correct_option: falls
+
+Question59: START
+The efficiency of the transformer will be maximum when
+Question59: END
+
+Option_a: Iron losses is equal to the twice of the copper losses
+Option_b: Copper losses is equal to the twice of the iron losses
+Option_c: Iron losses is equal to the copper losses
+Option_d: All of these
+correct_option: Iron losses is equal to the copper losses
+
+Question60: START
+Copper losses occurs due to ohmic resistance in
+Question60: END
+
+Option_a: Primary winding
+Option_b: Secondary winding
+Option_c: Both primary and secondary winding
+Option_d: None of these
+correct_option: Both primary and secondary winding
+
+Question61: START
+In transformer if the secondary is open circuited then its terminal voltage is
+Question61: END
+
+Option_a: kW
+Option_b: KVAR
+Option_c: kWh
+Option_d: KVA
+correct_option: KVA
+
+Question62: START
+Which of the following does not change in an ordinary transformer	
+Question62: END
+
+Option_a: Frequency
+Option_b: Voltage
+Option_c: Current
+Option_d: Power
+correct_option: Frequency
+
+
+Question63: START
+If primary number of turns are higher then, transformer is called _________ Question63: END
+
+Option_a: Step-down
+Option_b: Step-up
+Option_c: One-one
+Option_d: Autotransformer
+correct_option: Step-down
+
+Question64: START
+If secondary number of turns are higher then, transformer is called _________ Question64: END
+
+Option_a: Step-down
+Option_b: Step-up
+Option_c: One-one
+Option_d: Autotransformer
+correct_option: Step-up
+
+Question65: START
+The open circuit test in a transformer is used to measure__
+Question65: END
+
+Option_a: Copper loss
+Option_b: Winding loss
+Option_c: Total loss
+Option_d: Core loss
+correct_option: Core loss
+
+Question66: START
+Why OC test is performed on LV side?
+Question66: END
+
+Option_a: Simple construction
+Option_b: Less voltage is required and parameters can be transformed to HV side
+Option_c: It’ll not give losses if conducted on HV side
+Option_d: HV side does not have connections for voltage
+correct_option: Less voltage is required and parameters can be transformed to HV side
+
+Question67: START
+While conducting short-circuit test on a transformer which side is short circuited?
+Question67: END
+
+Option_a: High voltage side
+Option_b: Low voltage side
+Option_c: Primary side
+Option_d: Secondary side
+correct_option: Low voltage side
+
+Question68: START
+Which types of windings are used in transformer? Question68: END
+
+Option_a: Helical winding
+Option_b: Cylindrical winding
+Option_c: Continuous disc winding
+Option_d: All of above
+correct_option: All of above
+
+Question69: START
+Breather is provided in a transformer to
+Question69: END
+
+Option_a: Absorb moisture of air during breathing
+Option_b: provide cold air in the transformer
+Option_c: The filter of transformer oil
+Option_d: None of above
+correct_option: Absorb moisture of air during breathing
+
+Question70: START
+Oil is provided in an oil filled transformer for
+Question70: END
+
+Option_a: Lubrication
+Option_b: Insulation
+Option_c: cooling
+Option_d: both cooling and insulation
+correct_option: both cooling and insulation
+
+Question71: START
+Which of the following is not a part of transformer?
+Question71: END
+
+Option_a: Conservator
+Option_b: breather
+Option_c: Exciter
+Option_d: Buchholz relay
+correct_option: Exciter
+
+Question72: START
+Noise of transformer mainly due to
+Question72: END
+
+Option_a: Cooling fan
+Option_b: magnetostriction in an iron core
+Option_c: Mechanical vibration
+Option_d: All of the above
+correct_option: magnetostriction in an iron core
+
+
+Question73: START
+The part of a transformer which is visible from outside
+Question73: END
+
+Option_a: Bushings
+Option_b: Core
+Option_c: Primary winding
+Option_d: Secondary winding
+correct_option: Bushings
+
+Question74: START
+Part of the transformer which undergoes most damage from overheating is __
+Question74: END
+
+Option_a: Iron core
+Option_b: Copper winding
+Option_c: Winding insulation
+Option_d: Frame or case
+correct_option: Winding insulation
+
+Question75: START
+Which is the most common, famous and adopted method of cooling of a power transformer?
+Question75: END
+
+Option_a: Air blast cooling
+Option_b: Natural air cooling
+Option_c: Oil cooling
+Option_d: Any of the above method can be used
+correct_option: Oil cooling
+
+Question76: START
+Function of conservator in an electrical transformer is
+Question76: END
+
+Option_a: Supply cooling oil to transformer in time of need
+Option_b: Provide fresh air for cooling the transformer
+Option_c: Protect the transformer from damage when oil expends due to heating
+Option_d: Cannot be determined
+correct_option: Protect the transformer from damage when oil expends due to heating
+
+
+Question77: START
+Which chemical is used in breather?
+Question77: END
+
+Option_a: Asbestos fibre
+Option_b: Silica sand
+Option_c: Sodium chloride
+Option_d: Silica gel
+correct_option: Silica gel
+
+Question78: START
+Buchholz’s relay will give warning and protection against _______
+Question78: END
+
+Option_a: Electrical fault inside the transformer itself
+Option_b: Electrical fault outside the transformer in outgoing feeder
+Option_c: For both outside and inside faults
+Option_d: Cannot be determined
+correct_option: Electrical fault inside the transformer itself
+
+Question79: START
+An auto transformer can be used as
+Question79: END
+
+Option_a: Step up device
+Option_b: Step down device
+Option_c: Both step up and step down
+Option_d: None of the above
+correct_option: Both step up and step down
+
+Question80: START
+In an Auto Transformer, The Primary and Secondary are___________coupled.
+Question80: END
+
+Option_a: Electrically only
+Option_b: Magnetically only
+Option_c: Both electrically & magnetically
+Option_d: None of the above
+correct_option: Both electrically & magnetically
+
+Question81: START
+A load test on a single-phase induction motor is conducted to evaluate its performance under different load conditions.
+Question81: END
+
+Option_a: To determine the voltage drop
+Option_b: To evaluate motor performance under varying loads
+Option_c: To measure the speed of the motor only
+Option_d: To test the insulation resistance
+correct_option: To evaluate motor performance under varying loads
+
+Question82: START
+The efficiency of a single-phase transformer is maximum at:
+Question82: END
+
+Option_a: Full load
+Option_b: Half load
+Option_c: No load
+Option_d: Quarter load
+correct_option: Half load
+
+Question83: START
+In an LVDT, the output voltage is zero when:
+Question83: END
+
+Option_a: The core is at the null position
+Option_b: The core is fully inserted
+Option_c: The supply voltage is maximum
+Option_d: The frequency is maximum
+correct_option: The core is at the null position
+
+Question84: START
+Which type of meter is commonly used to measure energy consumption in households?
+Question84: END
+
+Option_a: Ammeters
+Option_b: Voltmeters
+Option_c: Energy meters
+Option_d: Ohmmeters
+correct_option: Energy meters
+
+Question85: START
+The purpose of using a wattmeter is to measure:
+Question85: END
+
+Option_a: Voltage
+Option_b: Current
+Option_c: Power
+Option_d: Resistance
+correct_option: Power
+
+Question86: START
+A Moving Coil (MC) instrument is primarily used for:
+Question86: END
+
+Option_a: AC measurements
+Option_b: DC measurements
+Option_c: Both AC and DC measurements
+Option_d: Frequency measurements
+correct_option: DC measurements
+
+Question87: START
+The sensitivity of a wattmeter can be increased by:
+Question87: END
+
+Option_a: Increasing the resistance of the current coil
+Option_b: Decreasing the resistance of the current coil
+Option_c: Increasing the inductance of the voltage coil
+Option_d: Decreasing the inductance of the voltage coil
+correct_option: Increasing the resistance of the current coil
+
+Question88: START
+An induction motor is commonly used in:
+Question88: END
+
+Option_a: Power plants
+Option_b: Domestic appliances
+Option_c: Aircraft engines
+Option_d: Nuclear reactors
+correct_option: Domestic appliances
+
+Question89: START
+The function of a capacitor in a single-phase motor is to:
+Question89: END
+
+Option_a: Start the motor
+Option_b: Increase the speed
+Option_c: Reduce the voltage
+Option_d: Decrease the current
+correct_option: Start the motor
+
+Question90: START
+The standard frequency of AC supply in India is:
+Question90: END
+
+Option_a: 50 Hz
+Option_b: 60 Hz
+Option_c: 75 Hz
+Option_d: 100 Hz
+correct_option: 50 Hz
+
+Question91: START
+In the two wattmeter method, when the power factor is zero, the readings of wattmeters are:
+Question91: END
+
+Option_a: Both positive
+Option_b: Both negative
+Option_c: One positive, one negative
+Option_d: Zero
+correct_option: One positive, one negative
+
+Question92: START
+The primary advantage of using an LVDT is its:
+Question92: END
+
+Option_a: High accuracy
+Option_b: Low cost
+Option_c: Large size
+Option_d: High power consumption
+correct_option: High accuracy
+
+Question93: START
+The scale of a Moving Coil (MC) meter is typically:
+Question93: END
+
+Option_a: Non-uniform
+Option_b: Uniform
+Option_c: Exponential
+Option_d: Logarithmic
+correct_option: Uniform
+
+Question94: START
+What is the phase difference between current and voltage in a purely capacitive circuit?
+Question94: END
+
+Option_a: 0 degrees
+Option_b: 90 degrees
+Option_c: 180 degrees
+Option_d: 270 degrees
+correct_option: 90 degrees
+
+Question95: START
+Which instrument is used to measure high-frequency AC signals?
+Question95: END
+
+Option_a: Moving Iron (MI) meter
+Option_b: Moving Coil (MC) meter
+Option_c: Electrodynamometer
+Option_d: Digital Oscilloscope
+correct_option: Digital Oscilloscope
+
+Question96: START
+The power factor of a purely inductive circuit is:
+Question96: END
+
+Option_a: Unity
+Option_b: Zero
+Option_c: 0.5
+Option_d: Negative
+correct_option: Zero
+
+Question97: START
+In an energy meter, the term 'creep' refers to:
+Question97: END
+
+Option_a: Unwanted slow rotation of the disc
+Option_b: Sudden increase in current
+Option_c: Sudden decrease in voltage
+Option_d: Constant power factor
+correct_option: Unwanted slow rotation of the disc
+
+Question98: START
+LVDTs are best suited for measuring:
+Question98: END
+
+Option_a: High temperatures
+Option_b: Large displacements
+Option_c: Small displacements
+Option_d: High pressures
+correct_option: Small displacements
+
+Question99: START
+The slip of an induction motor increases with:
+Question99: END
+
+Option_a: Increase in load
+Option_b: Decrease in load
+Option_c: Increase in speed
+Option_d: Increase in voltage
+correct_option: Increase in load
+
+Question100: START
+The moving coil meter works on the principle of:
+Question100: END
+
+Option_a: Electromagnetic induction
+Option_b: Electrostatic effect
+Option_c: Thermionic emission
+Option_d: Motor effect
+correct_option: Motor effect
+
+Question101: START
+If a device consumes 2 kW power for 5 hours, the energy consumed is:
+Question101: END
+
+Option_a: 10 kWh
+Option_b: 1 kWh
+Option_c: 5 kWh
+Option_d: 0.5 kWh
+correct_option: 10 kWh
+
+Question102: START
+What is the typical range of slip for a single-phase induction motor at full load?
+Question102: END
+
+Option_a: 0% to 1%
+Option_b: 5% to 7%
+Option_c: 10% to 15%
+Option_d: 20% to 30%
+correct_option: 5% to 7%
+
+Question103: START
+The scale of a Moving Iron (MI) instrument is typically:
+Question103: END
+
+Option_a: Uniform across all ranges
+Option_b: Narrower at low readings and wider at higher readings
+Option_c: Wider at low readings and narrower at higher readings
+Option_d: Identical to a Moving Coil (MC) instrument scale
+correct_option: Narrower at low readings and wider at higher readings
+
+Question104: START
+The primary winding of a transformer is connected to:
+Question104: END
+
+Option_a: The load
+Option_b: The power supply
+Option_c: A capacitor
+Option_d: A resistor
+correct_option: The power supply
+
+Question105: START
+The power factor of a purely resistive circuit is:
+Question105: END
+
+Option_a: 0
+Option_b: 0.5
+Option_c: 1
+Option_d: Negative
+correct_option: 1
+
+Question106: START
+What type of losses occur in the core of a transformer?
+Question106: END
+
+Option_a: Copper losses
+Option_b: Hysteresis losses
+Option_c: Windage losses
+Option_d: Mechanical losses
+correct_option: Hysteresis losses
+
+Question107: START
+In an LVDT, what is the function of the core?
+Question107: END
+
+Option_a: To provide insulation
+Option_b: To induce voltage
+Option_c: To measure temperature
+Option_d: To change the frequency
+correct_option: To induce voltage
+
+Question108: START
+The slip of an induction motor is defined as:
+Question108: END
+
+Option_a: The difference between synchronous speed and rotor speed
+Option_b: The ratio of voltage to current
+Option_c: The difference between input and output power
+Option_d: The ratio of frequency to speed
+correct_option: The difference between synchronous speed and rotor speed
+
+Question109: START
+The standard unit for measuring electrical energy is:
+Question109: END
+
+Option_a: Watt
+Option_b: Joule
+Option_c: Kilowatt-hour
+Option_d: Volt
+correct_option: Kilowatt-hour
+
+Question110: START
+The direction of rotation of a three-phase motor can be changed by:
+Question110: END
+
+Option_a: Changing the voltage
+Option_b: Reversing two of the phase connections
+Option_c: Increasing the frequency
+Option_d: Adding a capacitor
+correct_option: Reversing two of the phase connections
+
+Question111: START
+The voltage regulation of a transformer is:
+Question111: END
+
+Option_a: The ratio of load voltage to no-load voltage
+Option_b: The change in secondary voltage from no-load to full-load
+Option_c: The efficiency of the transformer
+Option_d: The resistance of the winding
+correct_option: The change in secondary voltage from no-load to full-load
+
+Question112: START
+What is the function of the commutator in a DC motor?
+Question112: END
+
+Option_a: To change AC to DC
+Option_b: To reverse the direction of current
+Option_c: To increase voltage
+Option_d: To decrease resistance
+correct_option: To reverse the direction of current
+
+Question113: START
+An energy meter is calibrated in:
+Question113: END
+
+Option_a: Volts
+Option_b: Watts
+Option_c: Amperes
+Option_d: kWh
+correct_option: kWh
+
+Question114: START
+The purpose of a starter in an induction motor is to:
+Question114: END
+
+Option_a: Increase the speed
+Option_b: Limit the starting current
+Option_c: Decrease the voltage
+Option_d: Improve power factor
+correct_option: Limit the starting current
+
+Question115: START
+The efficiency of a transformer under full load is:
+Question115: END
+
+Option_a: Always 100%
+Option_b: Less than 100%
+Option_c: More than 100%
+Option_d: Equal to the power factor
+correct_option: Less than 100%
+
+Question116: START
+A Moving Iron (MI) instrument is primarily used for:
+Question116: END
+
+Option_a: DC measurements
+Option_b: High-frequency measurements
+Option_c: AC measurements
+Option_d: Resistance measurements
+correct_option: AC measurements
+
+Question117: START
+The purpose of a fuse in an electrical circuit is to:
+Question117: END
+
+Option_a: Increase current
+Option_b: Protect against overcurrent
+Option_c: Measure voltage
+Option_d: Store energy
+correct_option: Protect against overcurrent
+
+Question118: START
+The typical range of efficiency for an induction motor is:
+Question118: END
+
+Option_a: 50-60%
+Option_b: 70-80%
+Option_c: 85-95%
+Option_d: 100%
+correct_option: 85-95%
+
+Question119: START
+In a star-connected three-phase system, the line voltage is:
+Question119: END
+
+Option_a: Equal to the phase voltage
+Option_b: Less than the phase voltage
+Option_c: More than the phase voltage
+Option_d: Zero
+correct_option: More than the phase voltage
+
+Question120: START
+The primary function of a circuit breaker is to:
+Question120: END
+
+Option_a: Provide insulation
+Option_b: Switch the circuit on and off
+Option_c: Protect against overload
+Option_d: Store electrical energy
+correct_option: Protect against overload
+
+Question 121: START
+In a DC shunt motor, speed is related to armature current as
+Question 121: END
+
+Option_a: Directly proportional to the armature current
+Option_b: Proportional to the square of the current
+Option_c: Independent of armature current
+Option_d:  Inversely proportional to the armature current
+correct_option: Inversely proportional to the armature current
+
+Question 122: START
+In a DC shunt motor for zero armature current we get speed 
+Question 122: END
+
+Option_a: Non-zero and minimum
+Option_b: Zero
+Option_c: Non-zero and maximum
+Option_d: Doesn’t depend on armature current
+correct_option: - Zero
+
+Question 123: START
+As the load is increased the speed of DC shunt motor will 
+Question 123: END
+
+Option_a: Reduce slightly
+Option_b: Increase slightly
+Option_c: Increase proportionately
+Option_d: Reduce rapidly
+correct_option: Increase slightly
+
+Question 124: START
+The armature torque of the DC shunt motor is proportional to 
+Question 124: END
+
+Option_a: Field flux only
+Option_b: Armature current only
+Option_c: Field flux and armature current
+Option_d: Field current 
+correct_option: Armature current only
+
+Question 125: START
+Correct equation of speed-torque characteristic of DC shunt motor is 
+Question 125: END
+
+Option_a: [Vt / kΦ] = [Ra / kl Φ2] T
+Option_b: [Vt / kΦ2] =[Ra / kl Φ2] T
+Option_c: [Vt / kΦ] = [Ra / kl Φ] T
+Option_d: [Vt / kΦ2] =[Ra / kl Φ2] T 
+correct_option:  [Vt / kΦ] – [Ra / kl Φ2] T
+
+Question 126: START
+For some percentage increase in the torque, which DC motor will have the least percentage increase of input current? 
+Question 126 : END
+
+Option_a: Series motor
+Option_b: Shunt motor
+Option_c: Cumulative compound motor
+Option_d: Separately exited motor 
+correct_option: Shunt motor
+
+Question 127: START
+If a DC shunt motor is working at full load and if shunt field circuit suddenly opens 
+Question 127: END
+
+Option_a: Will make armature to take heavy current, possibly burning it
+Option_b: Will result in excessive speed, possibly destroying armature due to excessive centrifugal stresses
+Option_c: Nothing will happen to motor
+Option_d: Motor will come to stop 
+correct_option: Will make armature to take heavy current, possibly burning it
+
+Question 128: START
+The speed of a DC shunt motor can be made more than full load speed by 
+Question 128: END
+
+Option_a: Reducing the field current
+Option_b: Decreasing the armature current
+Option_c: Increasing the armature current
+Option_d: Increasing the excitation current 
+correct_option: Reducing the field current
+
+Question 129: START
+No load speed of the DC shunt motor is 1322 rpm while full load speed is 1182 rpm. What will be the speed regulation?
+Question 129: END
+
+Option_a: 12.82 %
+Option_b: 11.8 %
+Option_c: 16.6 %
+Option_d: 14.2 % 
+correct_option: 11.8 %
+
+Question 130: START
+Magnitude of flux in an energy meter varies _
+Question 130: END
+
+Option_a: due to abnormal currents and voltages
+Option_b: due to high resistance and inductance values
+Option_c: due to changes in the transformer turns
+Option_d: due to the induced e.m.f in the windings
+correct_option: due to abnormal currents and voltages
+
+Question 131: START
+Energy meter creeps due to
+Question 131: END
+
+Option_a: due to change in supply
+Option_b: due to reversal in polarity of voltage
+Option_c: due to asymmetry in magnetic circuit
+Option_d: due to turns ratio of transformer 
+correct_option: due to asymmetry in magnetic circuit
+
+Question 132: START
+How is the flux of shunt coil related to voltage? 
+Question 132: END
+
+Option_a: flux is proportional to square of voltage
+Option_b: directly proportional
+Option_c: inversely proportional
+Option_d: independent of each other 
+correct_option: flux is proportional to square of voltage
+
+Question 133: START
+Supply voltage in an energy meter is 
+Question 133: END
+Option_a: constant always
+Option_b: zero always
+Option_c: depends on the load
+Option_d: can fluctuate 
+correct_option: can fluctuate
+
+Question134: START
+How is the flux of shunt coil related to voltage? 
+Question134: END
+
+Option_a: flux is proportional to square of voltage
+Option_b: directly proportional
+Option_c: inversely proportional
+Option_d: independent of each other 
+correct_option: flux is proportional to square of voltage
+
+
+Question 135: START
+How can temperature effect be compensated in an energy meter? 
+Question 135: END
+
+Option_a: through heat sinks
+Option_b: by a temperature shunt
+Option_c: by using resistance
+Option_d: by using a coolant 
+correct_option: by a temperature shunt
+
+Question 136: START
+In some energy meters, creeping can be avoided by 
+Question 136: END
+
+Option_a: attaching small gold pieces
+Option_b: attaching small aluminium pieces
+Option_c: attaching small iron pieces
+Option_d: attaching small zinc pieces 
+correct_option: attaching small iron pieces
+
+Question: 137 START
+Routh Hurwitz criterion gives: 
+Question 137: END
+
+Option_a: Number of roots in the right half of the s-plane
+Option_b: Value of the roots
+Option_c: Number of roots in the left half of the s-plane
+Option_d: Number of roots in the top half of the s-plane 
+correct_option: Number of roots in the right half of the s-plane
+
+
+Question138: START
+Routh Hurwitz criterion cannot be applied when the characteristic equation of the system containing coefficient’s which is/are 
+Question138: END
+
+Option_a: Exponential function of s
+Option_b: Sinusoidal function of s
+Option_c: Complex
+Option_d: Exponential and sinusoidal function of s and complex 
+correct_option: Exponential and sinusoidal function of s and complex
+
+Question139: START
+Consider the following statement regarding Routh Hurwitz criterion 
+Question139: END
+
+Option_a: It gives absolute stability
+Option_b: It gives gain and phase margin
+Option_c: It gives the number of roots lying in RHS of the s-plane
+Option_d: It gives gain, phase margin and number of roots lying in RHS of the s-plane 
+correct_option: it gives gain, phase margin and number of roots lying in RHS of the s-plane
+
+Question140: START
+The order of the auxiliary polynomial is always: 
+Question140: END
+
+Option_a: Even
+Option_b: Odd
+Option_c: May be even or odd
+Option_d: None of the mentioned 
+correct_option: Even
+
+Question141: START
+Which of the test signals are best utilized by the stability analysis.
+Question141: END
+
+Option_a: Impulse
+Option_b: Step
+Option_c: Ramp
+Option_d: Parabolic
+correct_option: Impulse
+
+Question142: START
+The characteristic equation of a system is given as3s4+10s3+5s2+2=0. This system is: 
+Question142: END
+
+Option_a: Stable
+Option_b: Marginally stable
+Option_c: Unstable
+Option_d: Linear 
+correct_option: Unstable
+
+Question143: START
+The characteristic equation of a system is given ass3+25s2+10s+50=0. What is the number of the roots in the right half s-plane and the imaginary axis respectively? 
+Question143: END
+
+Option_a: 1,1
+Option_b: 0,0
+Option_c: 2,1
+Option_d: 1,2 
+correct_option: 0,0
+
+Question144: START
+The necessary condition for the stability of the linear system is that all the coefficients of characteristic equation 1+G(s)H(s) =0, be real and have the
+Question144: END
+
+Option_a: Positive sign
+Option_b: Negative sign
+Option_c: Same sign
+Option_d: Both positive and negative
+correct_option: Same sign
+
+Question145: START
+For making an unstable system stable: 
+Question145: END
+
+Option_a: Gain of the system should be increased
+Option_b: Gain of the system should be decreased
+Option_c: The number of zeroes to the loop transfer function should be increased
+Option_d: The number of poles to the loop transfer function should be increased 
+correct_option: Gain of the system should be decreased
+
+Question 146: START
+The order of the auxiliary polynomial is always: 
+Question 146: END
+
+Option_a: Even
+Option_b: Odd
+Option_c: May be even or odd
+Option_d: None of the mentioned 
+correct_option: Even
+
+
+Question147: START
+The major components of a controller are 
+Question147: END
+
+Option_a: Control element
+Option_b: Error detector and control element
+Option_c: Feedback element
+Option_d: Error detector and feedback element 
+correct_option: Error detector and control element
+
+Question148: START
+What is an electric drive? 
+Question148: END
+
+Option_a: A machine that converts electrical energy into kinetic energy
+Option_b: A machine that converts mechanical energy into electrical energy
+Option_c: A machine that converts electrical energy into mechanical energy
+Option_d: A machine that converts kinetic energy into electrical energy 
+correct_option: A machine that converts electrical energy into mechanical energy
+
+Question149: START
+Which of the following is used to build a electric drive?
+Question149: END
+
+Option_a: Source
+Option_b: Motor
+Option_c: Control unit
+Option_d: All of the mentioned 
+correct_option: All of the mentioned
+
+Question150: START
+Which of the following is/are components of an electric drive? 
+Question150: END
+
+Option_a: Control unit and Power Modulator
+Option_b: Electric Motor and Control System
+Option_c: Input Command
+Option_d: Sensing Device and Electric Motor 
+correct_option: Electric Motor and Control System
+
+Question151: START
+Which of the following is a function of electric drive? 
+Question151: END
+
+Option_a: Transport energy from the storage system to the wheels
+Option_b: Transport energy from the control system to the wheels
+Option_c: Transport fuel from the electric motor to the wheels
+Option_d: Transport fuel from the storage system to the wheels 
+correct_option: Transport energy from the storage system to the wheels
+Question152: START
+Which of the following exhibits linearly rising load torque characteristics 
+Question152: END
+
+Option_a: Rolling Mills
+Option_b: Fan load
+Option_c: Separately excited dc generator connected to the resistive load
+Option_d: Elevators 
+correct_option: Separately excited dc generator connected to the resistive load
+
+Question153: START
+What is the maximum number of lighting points that can be connected in a circuit? 
+Question153: END
+
+Option_a: 5
+Option_b: 10
+Option_c: 8
+Option_d: 12 
+correct_option:10
+
+Question154: START
+Which material is used for wiring continuous bus bar? 
+Question154: END
+
+Option_a: Aluminium
+Option_b: Copper
+Option_c: Both (A) and (B)
+Option_d: None of these 
+correct_option: Aluminium
+
+Question155: START
+For what voltage levels are the screwed conduit circuits used? 
+Question155: END
+
+Option_a: Less than 250 V
+Option_b: For voltages between 250 V – 600 V
+Option_c: For voltages above 600 V
+Option_d: None of these 
+correct_option: For voltages between 250 V – 600 V
+
+Question156: START
+Which among these is a method of wiring? 
+Question156: END
+
+Option_a: Joint box
+Option_b: Tee system
+Option_c: Loop in system
+Option_d: All of these
+correct_option All of these 
+
+Question157: START
+Blinking of fluorescent tube may be on account of 
+Question157: END
+
+Option_a: Low circuit voltage
+Option_b: Loose contact
+Option_c: Defective starter
+Option_d: Any of the above
+correct_option: Any of the above
+
+
+Question158: START
+For operation of fluorescent tube on DC supply the additional device incorporated in the Tube circuit is a 
+Question158: END
+
+Option_a: Transformer
+Option_b: Resistor
+Option_c: Inductor
+Option_d: All of the above
+correct_option: Resistor
+
+Question159: START
+A capacitor is connected across the fluorescent tube circuit in order to 
+Question 159: END
+
+Option_a: Eliminate the noise
+Option_b:. Limit the current
+Option_c: Improve the power factor of the tube circuit
+Option_d: None of the mentioned 
+correct_option: Improve the power factor of the tube circuit
+
+Question160: START
+The Flickr effect of fluorescent lamps is more pronounced at 
+Question160: END
+
+Option_a: Lower voltages
+Option_b: Higher voltages
+Option_c: Higher frequencies
+Option_d: Lower frequencies
+correct_option: Lower frequencies
+
+Question161: START
+For a given system response y(t) to a unit step input u(t), what characteristic of the system can be determined if the response includes an exponential decay term?
+Question161: END
+
+Option_a: The system is unstable
+Option_b: The system has underdamped poles
+Option_c: The system is critically damped
+Option_d: The system has no damping
+correct_option: The system has underdamped poles
+
+Question162: START
+If a unit impulse signal δ(t)\delta(t)δ(t) is applied to a linear time-invariant (LTI) system, which of the following can best describe the resulting output?
+Question162: END
+
+Option_a: The output will be a scaled version of δ(t)\delta(t)δ(t)
+Option_b: The output will be the impulse response of the system
+Option_c: The output will be the step response of the system
+Option_d: The output will be zero for all time
+correct_option: The output will be the impulse response of the system
+
+Question163: START
+A unit ramp function r(t)=tu(t) is applied to a first-order system with a time constantWhich of the following best describes the output response?
+Question163: END
+
+Option_a: It will have a constant steady-state value
+Option_b:  It will linearly increase with time indefinitely
+Option_c: It will approach a steady-state ramp with a slope determined by τ\tauτ
+Option_d: It will exhibit an oscillatory response
+correct_option: It will approach a steady-state ramp with a slope determined by τ\tauτ
+
+Question164: START
+In control systems, which of the following input signals is often used to test the transient response characteristics of a system, particularly in feedback control design?
+Question164: END
+
+Option_a: Unit ramp signal
+Option_b: Unit impulse signal
+Option_c: Exponential decay signal
+Option_d: Sinusoidal signal
+correct_option: Unit impulse signal
+
+
+
+Question165: START
+Which of the following best describes the response of a second-order system when excited by a unit step signal, if the system is underdamped?
+Question165: END
+
+Option_a:  A smooth exponential decay to zero 
+Option_b: An oscillatory response with a decaying amplitude
+Option_c: A ramp response with steady-state error
+Option_d: A steady-state constant response with zero overshoot
+correct_option: An oscillatory response with a decaying amplitude
+
+Question166: START
+When comparing the Fourier series representation of a square wave and a sinusoidal wave of the same frequency, what key characteristic distinguishes them?
+Question166: END
+
+Option_a: Square wave contains only even harmonics
+Option_b: Sinusoidal wave contains more harmonics
+Option_c: Square wave contains odd harmonics, sinusoidal contains only the fundamental
+Option_d: Sinusoidal wave has a flat amplitude spectrum
+correct_option: Square wave contains odd harmonics, sinusoidal contains only the fundamental
+
+Question167: START
+ In a DIT-FFT algorithm, what key operation differentiates it from the direct computation of the Discrete Fourier Transform (DFT)?
+Question167: END
+
+Option_a: Computation is based on breaking the input sequence into even and odd parts
+Option_b: The output sequence is reversed
+Option_c: It only calculates half of the DFT coefficients
+Option_d: It requires complex conjugate multiplications at each step
+correct_option: Computation is based on breaking the input sequence into even and odd parts
+
+Question168: START
+In a DIF-FFT algorithm, what is the main reason for performing decimation on the output instead of the input sequence?
+Question168: END
+
+Option_a: To minimize the total number of computations required
+Option_b: To apply twiddle factors more efficiently
+Option_c: To ensure that the input sequence remains in natural order
+Option_d: To reduce the memory usage during computation 
+correct_option: To ensure that the input sequence remains in natural order
+
+
+
+Question169: START
+In a scenario where you need to minimize the number of arithmetic operations for a large input sequence, which FFT structure (DIT or DIF) would you prefer, and how would the choice impact the computation?
+Question169: END
+
+Option_a: DIT, because it reduces complex multiplications in each stage
+Option_b: DIT, as it performs bit-reversal at the output, optimizing the sequence 
+Option_c: DIF, as it places the twiddle factor multiplications in initial stages, reducing overall complexity
+Option_d: DIF, because it limits additions in the later stages
+correct_option: DIF, as it places the twiddle factor multiplications in initial stages, reducing overall complexity
+
+Question170: START
+How does the butterfly computation in DIT-FFT differ from that in DIF-FFT with respect to the application of twiddle factors?
+Question170: END
+
+Option_a: DIT-FFT applies twiddle factors after the butterfly operation
+Option_b: DIT-FFT applies twiddle factors only at the last stage
+Option_c: DIF-FFT applies twiddle factors before the butterfly operation
+Option_d: Both algorithms apply twiddle factors at every stage
+correct_option: DIF-FFT applies twiddle factors before the butterfly operation
+
+Question171: START
+In an 8-point FFT, the DIT-FFT and DIF-FFT produce the same result but in different orders. What output difference specifically distinguishes the final outputs of DIT-FFT from DIF-FFT?
+Question171: END
+
+Option_a: DIT-FFT provides output in bit-reversed order, while DIF-FFT provides it in natural order
+Option_b: DIT-FFT provides output in natural order, while DIF-FFT provides it in bit-reversed order 
+Option_c: Both algorithms output in bit-reversed order 
+Option_d: Both algorithms output in natural order
+correct_option: DIT-FFT provides output in bit-reversed order, while DIF-FFT provides it in natural order
+
+Question172: START
+Given that both DIT and DIF FFTs involve recursive butterfly operations, in what case would the butterfly structure in DIT be more advantageous than DIF, especially in terms of implementation on a software-based digital signal processor (DSP)?
+Question172: END
+
+Option_a: When the input data is naturally in bit-reversed order 
+Option_b: When the algorithm needs to minimize memory for each butterfly stage
+Option_c: When the DSP is optimized for forward-order computations, aligning with DIT’s bit-reversed input order 
+Option_d: When minimizing latency across stages is essential 
+correct_option: When the DSP is optimized for forward-order computations, aligning with DIT’s bit-reversed input order
+
+Question173: START
+You are comparing the speed and efficiency of DIT and DIF FFT algorithms for a research project on high-frequency data processing. Which key factors would you prioritize in selecting one algorithm over the other, and what would be your choice?
+Question173: END
+
+Option_a: Choose DIT for lower frequency resolution and simplicity
+Option_b: Choose DIF for faster computation in hardware due to in-place input structure Option_c: Choose DIT to reduce the total memory requirement
+Option_d: Choose DIF to minimize frequency resolution in final stages 
+correct_option: Choose DIF for faster computation in hardware due to in-place input structure
+
+Question174: START
+In designing an FFT algorithm for adaptive filtering applications, where rapid and efficient frequency updates are essential, would DIT or DIF be preferable, and why?
+Question174: END
+
+Option_a: DIT, since it can more easily accommodate dynamic input changes 
+Option_b: DIF, as it optimizes the use of twiddle factors in each stage 
+Option_c: DIT, due to its reduced need for twiddle factor adjustments
+Option_d: DIF, as it allows for quick adjustments with natural order inputs 
+correct_option: DIF, as it allows for quick adjustments with natural order inputs
+
+Question175: START
+If your goal is to implement a parallel FFT computation on a multicore processor, which algorithm (DIT or DIF) would facilitate more efficient parallel processing, and what is the reason behind this choice?
+Question175: END
+
+Option_a: DIT, as it allows parallel processing through its decimation structure
+Option_b: DIF, because it organizes computations such that later stages can be parallelized
+Option_c: DIF, as it provides natural ordering at each stage, simplifying data distribution across cores
+Option_d: DIT, since it inherently minimizes the interdependencies between stages
+correct_option: DIF, as it provides natural ordering at each stage, simplifying data distribution across cores
+
+
+
+Question176: START
+If you were given an 8-point FFT to compute by hand and needed the simplest approach to verify the results, which algorithm (DIT or DIF) would you select, and what would be the rationale behind your choice?
+Question176: END
+
+Option_a: DIT, because it provides intermediate results that are easy to validate at each stage
+Option_b: DIF, as it maintains a straightforward order of input operations
+Option_c: DIF, since it produces outputs in natural order, making verification easier
+Option_d: DIT, as it minimizes the twiddle factor computations required for each step correct_option: DIF, since it produces outputs in natural order, making verification easier
+
+Question177: START
+system produces zero output for one input and same gives the same output for several other inputs. What is the system called?
+a) Non – invertible System
+b) Invertible system
+c) Non – causal system
+d) Causal system 
+Question177: END
+
+Option_a: Non – invertible System 
+Option_b: Invertible system
+Option_c: Non – causal system
+Option_d: Causal system
+correct_option Non – invertible System 
+
+Question178: START
+How is a linear function described as?
+a) Zero in Finite out
+b) Zero in infinite out
+c) Zero in zero out
+d) Zero in Negative out
+Question178: END
+
+Option_a: Zero in Finite out
+Option_b: Zero in infinite out
+Option_c: Zero in zero out 
+Option_d: Zero in Negative out 
+correct_option: Zero in zero out
+
+Question179: START
+If n tends to infinity, is the accumulator function an unstable one?
+Question179: END
+
+Option_a: The function is marginally stable
+Option_b: The function is unstable
+Option_c: The function is stable
+Option_d: None of the mentioned
+correct_option: The function is unstable
+
+Question180: START
+Determine the discrete-time signal: x(n)=1 for n≥0 and x(n)=0 for n<0
+Question180: END
+
+Option_a: Unit ramp sequence
+Option_b: Unit impulse sequence
+Option_c: Exponential sequence
+Option_d: Unit step sequence 
+correct_option: Unit step sequence
+
+Question181: START
+In the context of digital filter design, what is the primary purpose of using the Bilinear Transformation technique?
+Question181: END
+
+Option_a: To preserve the frequency response of an analog filter exactly
+Option_b: To perform a one-to-one mapping of the impulse response
+Option_c: To optimize the phase response of the filter
+Option_d: To map the entire analog frequency range to the digital frequency range without aliasing 
+correct_option To map the entire analog frequency range to the digital frequency range without aliasing
+
+Question182: START
+Which of the following best describes how the Bilinear Transformation maps the analog s-plane to the digital z-plane?
+Question182: END
+
+Option_a: It maps the entire left half of the s-plane to the entire z-plane
+Option_b: It maps the origin of the s-plane to infinity in the z-plane
+ Option_c: It maps the jω-axis to the unit circle in the z-plane
+Option_d: It maps the right half of the s-plane to the left half of the z-plane 
+correct_option: It maps the jω-axis to the unit circle in the z-plane
+
+
+Question183: START
+In Impulse Invariant Transformation, what is a primary drawback that may arise when designing digital filters from analog prototypes?
+Question183: END
+
+Option_a: Aliasing, as it does not prevent overlap of the frequency spectrum 
+Option_b: Frequency warping, causing an inaccurate mapping of frequencies
+Option_c: Non-causal filter design, making it impossible for real-time applications
+Option_d: A need for high sampling rates to achieve accurate results
+correct_option: Aliasing, as it does not prevent overlap of the frequency spectrum 
+
+Question184: START
+What is the nature of the following function: y[n] = y[n-1] + x[n]?
+Question184: END
+
+Option_a: Integrator
+Option_b: Differentiator 
+Option_c: Subtractor 
+Option_d: Accumulator
+correct_option: Accumulator
+
+Question185: START
+Which of the following transformations is better suited for low-pass filter designs when a precise match between analog and digital frequency response is critical?
+Question185: END
+
+Option_a: Impulse Invariant Transformation, as it avoids aliasing
+Option_b: Bilinear Transformation, as it warps frequencies to maintain shape
+Option_c: Impulse Invariant Transformation, due to its simple one-to-one mapping
+Option_d: Bilinear Transformation, as it provides a more accurate mapping at low frequencies correct_option: Bilinear Transformation, as it provides a more accurate mapping at low frequencies
+
+Question186: START
+In Bilinear Transformation, what effect does the frequency warping have on high-frequency components when transforming from analog to digital?
+Question186: END
+
+Option_a: High-frequency components are compressed toward the Nyquist frequency Option_b: High-frequency components are stretched uniformly across the frequency axis
+Option_c: High-frequency components are mapped to low frequencies, creating aliasing Option_d: High-frequency components remain unaffected by warping 
+correct_option: High-frequency components are compressed toward the Nyquist frequency
+
+Question187: START
+In designing a high-pass filter using Impulse Invariant Transformation, what must be considered to reduce the effects of aliasing?
+Question187: END
+
+Option_a: Use a very low cutoff frequency
+Option_b: Increase the sampling frequency to minimize aliasing
+Option_c: Apply a pre-warping technique
+Option_d: Design a low-pass filter instead and convert it to high-pass
+correct_option: Increase the sampling frequency to minimize aliasing
+
+Question188: START
+How does the Impulse Invariant Transformation maintain the time-domain characteristics of an analog filter when transforming it to a digital filter?
+Question188: END
+
+Option_a: It maps each impulse response sample in the analog domain to the digital domain
+Option_b: It applies a pre-warping effect to match impulse timings
+Option_c: It mirrors the analog filter’s poles exactly onto the z-plane 
+Option_d: It uses zero-order hold to approximate the analog response
+correct_option: It maps each impulse response sample in the analog domain to the digital domain
+
+Question189: START
+Consider designing a band-pass digital filter. Given that both Bilinear Transformation and Impulse Invariant Transformation are options, which would you choose and why?
+Question189: END
+
+Option_a: Impulse Invariant, to maintain the time-domain characteristics of the analog filter
+Option_b: Impulse Invariant, to simplify the mapping of high frequencies
+Option_c: Bilinear, to avoid frequency warping in the lower frequency range
+Option_d: Bilinear, to avoid aliasing and ensure accurate frequency mapping
+correct_option: Bilinear, to avoid aliasing and ensure accurate frequency mapping
+
+Question190: START
+For an analog filter with a cutoff frequency close to the Nyquist limit, why would Bilinear Transformation be less ideal for digital conversion, and what would you do to mitigate this issue?
+Question190: END
+
+Option_a: Frequency warping distorts high frequencies, so apply pre-warping to compensate 
+Option_b: It fails to map lower frequencies accurately; increase sampling rate
+Option_c: Impulse response aliasing; switch to Impulse Invariant Transformation
+Option_d: It inverts the phase response; adjust the pole-zero configuration
+correct_option: Frequency warping distorts high frequencies, so apply pre-warping to compensate
+
+Question191: START
+Which of the following best explains why a Low Pass Filter is often used in anti-aliasing applications?
+Question191: END
+
+Option_a: It allows only high frequencies to pass, reducing high-frequency noise
+Option_b: It blocks low frequencies, ensuring only high-frequency components are sampled
+Option_c: It attenuates high frequencies, limiting the bandwidth and preventing aliasing
+Option_d: It mirrors frequencies to reduce spectral overlap
+correct_option It attenuates high frequencies, limiting the bandwidth and preventing aliasing
+
+Question192: START
+For audio applications where low-frequency noise is common, which filter type is typically used to remove low-frequency interference while preserving high-frequency components of the signal?
+Question192: END
+
+Option_a: Low Pass Filter
+Option_b: High Pass Filter
+Option_c: Band Pass Filter
+Option_d: Band Reject Filter
+correct_option: High Pass Filter
+
+Question193: START
+In designing a Band Pass Filter, what characteristic must be carefully controlled to ensure the filter accurately targets the desired frequency band?
+Question193: END
+
+Option_a: The passband ripple
+Option_b: Only the cutoff frequency of the high-pass component
+Option_c: The roll-off rate of both the low- and high-frequency cutoffs
+Option_d: The gain of the entire frequency range
+correct_option: The roll-off rate of both the low- and high-frequency cutoffs
+
+Question194: START
+Which of the following filter types would be most effective in removing a specific interfering frequency within a signal while leaving the surrounding frequencies largely unaffected?
+Question194: END
+
+Option_a: Low Pass Filter
+Option_b: High Pass Filter
+Option_c: Band Pass Filter
+Option_d: Band Reject Filter
+correct_option: Band Reject Filter
+
+Question195: START
+Suppose you are designing a filter for an audio application to enhance vocals between 300 Hz and 3 kHz while attenuating other frequencies. Which type of filter is most appropriate, and why?
+Question195: END
+
+Option_a: Low Pass Filter, to allow all frequencies below 3 kHz
+Option_b: High Pass Filter, to remove frequencies below 300 Hz 
+Option_c: Band Pass Filter, to pass frequencies only between 300 Hz and 3 kHz
+Option_d: Band Reject Filter, to eliminate all frequencies except 300 Hz to 3 kHz
+
+Question196: START
+When designing a High Pass Filter for a real-time signal processing system, what potential limitation should you consider regarding the filter’s cutoff frequency, and why?
+Question196: END
+
+Option_a: The cutoff should be very low to preserve low-frequency components 
+Option_b: The cutoff should be chosen carefully to avoid unwanted phase distortion near the cutoff frequency
+Option_c: The cutoff should be very high to allow only high-frequency signals to pass through Option_d: The cutoff must be flexible to adapt to different signal requirements
+correct_option: The cutoff should be chosen carefully to avoid unwanted phase distortion near the cutoff frequency
+
+Question197: START
+In wireless communication systems, which type of filter would be chosen to eliminate unwanted signals from neighboring frequency bands, and what is a key requirement of this filter’s design?
+Question197: END
+
+Option_a: Low Pass Filter, with sharp roll-off
+Option_b: High Pass Filter, with gradual roll-off
+Option_c: Band Pass Filter, with a narrow bandwidth
+Option_d: Band Reject Filter, with selective attenuation
+correct_option: Band Reject Filter, with selective attenuation
+
+Question198: START
+For a seismic signal processing application that requires monitoring frequencies between 0.1 Hz and 10 Hz, which filter design would you choose and why?
+Question198: END
+
+Option_a: Low Pass Filter, to attenuate all frequencies above 10 Hz
+Option_b: High Pass Filter, to pass all frequencies above 0.1 Hz
+Option_c: Band Pass Filter, to pass frequencies only between 0.1 Hz and 10 Hz
+Option_d: Band Reject Filter, to eliminate frequencies outside of the range 0.1 Hz to 10 Hz
+correct_option: Band Pass Filter, to pass frequencies only between 0.1 Hz and 10 Hz
+
+Question199: START
+You are developing a filter to isolate and analyze harmonic frequencies within a power signal. Which type of filter would allow you to observe harmonic components while filtering out both high- and low-frequency noise?
+Question199: END
+
+Option_a: Low Pass Filter, with a low cutoff frequency
+Option_b: High Pass Filter, with a high cutoff frequency 
+Option_c: Band Pass Filter, with a narrow passband centered on the harmonic frequencies
+Option_d: Band Reject Filter, tuned to remove the fundamental frequency only 
+correct_option: Band Pass Filter, with a narrow passband centered on the harmonic frequencies
+
+Question200: START
+If you need to design a filter for biomedical signals to suppress 60 Hz power line interference while preserving other signal frequencies, which filter type would you select and how would it be configured?
+Question200: END
+
+Option_a: Low Pass Filter with cutoff below 60 Hz
+Option_b: High Pass Filter with cutoff above 60 Hz 
+Option_c: Band Pass Filter targeting the desired biomedical signal frequencies only
+Option_d: Band Reject Filter centered at 60 Hz to suppress interference specifically
+correct_option: Band Reject Filter centered at 60 Hz to suppress interference specifically
+
+Question201: START
+A circuit has a Norton equivalent current of 3 A and a Norton resistance of 4 Ω. What is the equivalent Thevenin voltage?
+Question201: END
+
+Option_a: 3 V
+Option_b: 6 V
+Option_c: 12 V
+Option_d: 15 V
+correct_option: c) 12 V
+
+Question202: START
+A circuit has a Norton equivalent current of 3 A and a Norton resistance of 4 Ω. What is the equivalent Thevenin voltage?
+Question202: END
+
+Option_a: 10 V
+Option_b: 12 V
+Option_c: 13 V
+Option_d: 14 V
+correct_option: b) 12 V
+
+
+Question203: START
+If the open-circuit voltage across terminals is 24 V and the short-circuit current across the same terminals is 6 A, what is the Norton resistance?
+Question203: END
+
+Option_a: 2 Ω 
+Option_b: 3 Ω
+Option_c: 4 Ω
+Option_d: 6 Ω
+correct_option: b) 4 Ω
+
+Question204: START
+In a Norton equivalent circuit with Norton current IN=10 A and Norton resistance RN=5Ω, what is the current through a 5 Ω load connected across the terminals?
+Question204: END
+
+Option_a: 2 A 
+Option_b: 5 A
+Option_c: 7.5 A
+Option_d: 10 A
+correct_option: b) 5 A
+
+Question205: START
+The Norton resistance of a network is found to be 10 Ω, and the Norton current is 2 A. If a load resistance of 10 Ω is connected across the terminals, what is the voltage across the load?
+Question205: END
+
+Option_a: 5 V
+Option_b: 10 V
+Option_c: 15 V
+Option_d: 20 V
+correct_option: b) 10 V
+
+Question206: START
+ In Norton’s Theorem, what happens to all independent sources in the network while calculating the Norton resistance?
+Question206: END
+
+Option_a: All voltage sources are short-circuited, and current sources are left open
+Option_b: All voltage sources are open-circuited, and current sources are shorted
+Option_c: All sources are turned off, meaning voltage sources are shorted, and current sources are opened
+Option_d: No change is made to the sources
+correct_option: c) All sources are turned off, meaning voltage sources are shorted, and current sources are opened
+Question207: START
+For a network with a Norton equivalent current of 15 A and a Norton resistance of 3 Ω, calculate the power delivered to a 3 Ω load resistor.
+Question207: END
+
+Option_a: 37.5 W 
+Option_b: 168.75 W 
+Option_c: 75 W
+Option_d: 112.5 W
+correct_option: b) 168.75 W 
+
+
+Question208: START
+ A Norton equivalent circuit has a current source of 8 A and a parallel resistance of 6 Ω. If a 12 Ω resistor is connected across the terminals, what is the equivalent current through the 12 Ω resistor.
+Question208: END
+
+Option_a: 2 A
+Option_b: 3 A
+Option_c: 4 A
+Option_d: 6 A
+correct_option: b) 3 A
+Question209: START
+ In a circuit, the open-circuit voltage is measured as 50 V, and the short-circuit current is 5 A. What is the Norton equivalent current and resistance?
+Question209: END
+
+Option_a: 5 A, 10 Ω
+Option_b: 10 A, 5 Ω 
+Option_c: 2.5 A, 20 Ω
+Option_d: 4 A, 12.5 Ω
+correct_option: a) 5 A, 10 Ω
+Question210: START
+Norton's theorem is used to simplify which of the following types of electrical circuits?
+Question210: END
+
+Option_a: Only AC circuits
+Option_b: Only DC circuits
+Option_c: Both AC and DC circuits
+Option_d: Only resistive circuits
+correct_option: c) Both AC and DC circuits
+
+Question211: START
+What is the maximum power that can be transferred to R in the circuit shown below?
+Question211: END
+
+Option_a: 2 W
+Option_b: 4 W
+Option_c: 8 W
+Option_d: 16 W
+correct_option: 8 W 
+
+Question212: START
+When the load resistance equal to source resistance, which of the following is maximum 
+Question212: END
+
+Option_a: Voltage
+Option_b: Current
+Option_c: Power 
+Option_d: Power factor
+correct_option: Power
+
+Question213: START
+Which of the following transformer, Buchholz’s relay can be fixed on?
+Question213: END
+
+Option_a: Welding transformers
+Option_b: Oil cooled transformers
+Option_c: Auto-transformers
+Option_d: Air-cooled transformers
+correct_option: Oil cooled transformers
+
+ 
+Question214: START
+An ideal transformer will have maximum efficiency at a load such that _______
+Question214: END
+
+Option_a: copper loss > iron loss
+Option_b: cannot be determined
+Option_c: copper loss = iron loss
+Option_d: copper loss < iron loss
+correct_option: copper loss = iron loss
+ 
+Question215: START
+For a transformer with primary turns 400, secondary turns 100, if 20A current is flowing through primary, we will get ___________
+Question215: END
+
+Option_a: 800A at secondary
+Option_b: 40A at secondary
+Option_c: 80A at secondary
+Option_d: 5A at secondary
+correct_option: 80A at secondary
+ 
+Question216: START
+The full-load copper loss of a transformer is 1600 W. At half-load, the copper loss will be _______
+Question216: END
+
+Option_a: 1600 W
+Option_b: 6400 W
+Option_c: 400 W
+Option_d: 800 W
+correct_option: 400 W
+ 
+Question217: START
+Power transformers other than distribution transformers are generally designed to have maximum efficiency around ______
+Question217: END
+
+Option_a: 10% overload
+Option_b: Near full-load
+Option_c: Half-load
+Option_d: No-load
+correct_option: Near full-load
+
+
+Question218: START
+No-load current in the transformer is _______
+Question218: END
+
+Option_a: Sinusoidal distorted
+Option_b: Sinusoidal
+Option_c: Steps
+Option_d: Straight DC
+correct_option: Sinusoidal distorted
+
+
+Question219: START
+For a 20kVA transformer with a turn ratio of 0.4 what amount of total power is transferred inductively?
+Question219: END
+
+Option_a: 10kVA
+Option_b: 8kVA
+Option_c: 50kVA
+Option_d: 12kVA
+correct_option: 12kVA
+ 
+Question220: START
+Which of the following is the major requirement for the transformers used for electronic purposes?
+Question220: END
+
+Option_a: Constant amplitude voltage gain
+Option_b: Perfect DC isolation, maximum efficiency and constant voltage gain
+Option_c: Perfect DC isolation
+Option_d: Maximum efficiency
+correct_option: Constant amplitude voltage gain
+
+Question221: START
+Which type of motor is typically used in electric vehicles for its high torque capabilities?
+Question221: END
+
+Option_a: Induction Motor
+Option_b: Synchronous Motor
+Option_c: Stepper Motor
+Option_d: DC Shunt Motor
+correct_option: Induction Motor
+
+Question222: START
+The primary purpose of using a voltage stabilizer in an electrical system is to:
+Question222: END
+
+Option_a: Increase power factor
+Option_b: Reduce energy consumption
+Option_c: Maintain constant voltage output
+Option_d: Protect against short circuits
+correct_option: Maintain constant voltage output
+
+Question223: START
+What is the typical power factor range for industrial loads?
+Question223: END
+
+Option_a: 0.2 to 0.5
+Option_b: 0.5 to 0.7
+Option_c: 0.7 to 0.9
+Option_d: 0.9 to 1.0
+correct_option: 0.7 to 0.9
+
+Question224: START
+In a three-phase power system, the type of connection that allows for reduced conductor material is:
+Question224: END
+
+Option_a: Delta connection
+Option_b: Star connection
+Option_c: Series connection
+Option_d: Parallel connection
+correct_option: Star connection
+
+Question225: START
+The insulation resistance of a good electrical cable should be:
+Question225: END
+
+Option_a: High
+Option_b: Low
+Option_c: Zero
+Option_d: Variable
+correct_option: High
+
+Question226: START
+The synchronous speed of a 4-pole motor operating on a 50 Hz supply is:
+Question226: END
+
+Option_a: 750 RPM
+Option_b: 1500 RPM
+Option_c: 3000 RPM
+Option_d: 3600 RPM
+correct_option: 1500 RPM
+
+Question227: START
+A rheostat is used in an electrical circuit to:
+Question227: END
+
+Option_a: Increase current
+Option_b: Decrease voltage
+Option_c: Control resistance
+Option_d: Store charge
+correct_option: Control resistance
+
+Question228: START
+The primary function of a transformer is to:
+Question228: END
+
+Option_a: Convert AC to DC
+Option_b: Step up or step down voltage
+Option_c: Store electrical energy
+Option_d: Regulate current flow
+correct_option: Step up or step down voltage
+
+Question229: START
+Which material is commonly used for the core of a transformer?
+Question229: END
+
+Option_a: Aluminum
+Option_b: Copper
+Option_c: Silicon steel
+Option_d: Plastic
+correct_option: Silicon steel
+
+Question230: START
+A power factor of 1 indicates that the load is:
+Question230: END
+
+Option_a: Purely resistive
+Option_b: Purely inductive
+Option_c: Purely capacitive
+Option_d: Non-linear
+correct_option: Purely resistive
+
+Question 231: START
+ The Routh-Hurwitz criterion cannot be applied when the characteristic equation of the system contains any coefficients which is :
+Question 231: END
+
+Option_a: Negative real and exponential function
+Option_b: Negative real, both exponential and sinusoidal function of s
+Option_c: Both exponential and sinusoidal function of s
+Option_d: Complex, both exponential and sinusoidal function of s
+correct_option: Negative real, both exponential and sinusoidal function of s
+
+Question 232: START
+  The given characteristic equation s4+s3+2s2+2s+3=0 has:
+Question 232: END
+
+Option_a:  Zero root in the s-plane
+Option_b:  One root in the RHS of s-plane
+Option_c: Two root in the RHS of s-plane
+Option_d:  Three root in the RHS of s-plane
+correct_option: Two root in the RHS of s-plane
+
+Question 233: START
+The wattmeter reading while measuring the reactive power with wattmeter is? 
+Question 233: END
+
+Option_a: VLILsecØ
+Option_b: VLILsinØ
+Option_c:  VLILtanØ
+Option_d: VLILcosØ
+correct_option: - VLILsinØ
+
+Question 234: START
+The total reactive power in the load while measuring the reactive power with wattmeter is? Question 234: END
+
+Option_a: √3VLILcosØ
+Option_b: √3VLILtanØ
+Option_c: √3VLILsinØ
+Option_d: √3 VLILsecØ
+
+correct_option: √3VLILsinØ
+
+Question 235: START
+ In which of the following motor, ratio of starting torque to full-load torque will be least?
+Question 235: END
+
+Option_a: DC series motors
+Option_b: DC shunt motors
+Option_c: DC compound motors
+Option_d: Synchronous motors
+correct_option: DC shunt motors
+
+Question 236: START
+Which of the following is a function of electric drive?
+Question 236: END
+
+Option_a: Transport energy from the storage system to the wheels
+Option_b: Transport energy from the control system to the wheels
+Option_c: Transport fuel from the electric motor to the wheels
+Option_d: Transport fuel from the storage system to the wheels
+correct_option: Transport energy from the storage system to the wheels
+
+Question 237: START
+In the rotor voltage injection method, when an external voltage source is in phase with the main voltage then speed will
+Question 237: END
+
+Option_a: Decrease
+Option_b: First increases then decrease
+Option_c: Increase
+Option_d: Remain unchanged 
+correct_option: Increase
+
+Question  238: START
+Which of the following motor is a 1-Φ AC motor? 
+Question 238: END
+
+Option_a: Shunt motor
+Option_b: Capacitor run
+Option_c: Series motor
+Option_d: Synchronous motor 
+correct_option: Capacitor run
+
+Question  239: START
+The wattmeter method is used to measure power in a three-phase load. The wattmeter readings are 400W and -35W. Calculate the total active power. 
+Question 239: END
+
+Option_a: 360
+Option_b: 365
+Option_c: 370
+Option_d: 375 
+correct_option: 365
+
+Question 240: START
+What is the unit of the apparent or complex power?
+Question 240: END
+
+Option_a: VA
+Option_b: ohm
+Option_c: Volt
+Option_d: VAR
+correct_option: VA
+
+Question241: START
+Analyze the purpose of a low pass filter in an audio system. In what scenarios would it be most effectively applied?
+Question241: END
+
+Option_a: To allow high frequencies for bass enhancement
+Option_b: To pass only low frequencies, filtering out noise
+Option_c: To block interference in low-frequency bands 
+Option_d: To pass all frequencies uniformly
+correct_option: To pass only low frequencies, filtering out noise
+
+
+Question242: START
+Identify the application that would benefit from a high pass filter. Why is this choice significant?
+Question242: END
+
+Option_a: To improve the bass response in a subwoofer
+Option_b: To allow only high frequencies in tweeters
+Option_c: Band Pass Filter targeting the desired biomedical signal frequencies only
+Option_d: To enhance the entire frequency range in speakers
+correct_option: To allow only high frequencies in tweeters 
+
+Question243: START
+If you need to allow a specific range of frequencies to pass through a system while attenuating others, which filter would you use and why?
+Question243: END
+
+Option_a: Low pass filter for reducing high frequencies
+Option_b: High pass filter for reducing low frequencies
+Option_c: Band pass filter to isolate a frequency range
+Option_d: Band reject filter for suppressing a range
+correct_option: Band pass filter to isolate a frequency range 
+
+Question244: START
+Evaluate a band reject filter's role in eliminating specific interference signals. In what type of signal processing is this useful?
+Question244: END
+Option_a: Low pass filter for audio signal noise
+Option_b: High pass filter for eliminating low-frequency hums
+Option_c: Notch filter to remove 60 Hz electrical noise
+Option_d: Band pass filter for passing only desired signals
+correct_option: Notch filter to remove 60 Hz electrical noise
+
+Question245: START
+Compare the frequency response characteristics of band pass and band reject filters. What insights can be drawn from their operational differences?
+Question245: END
+
+Option_a: Band pass filter passes all frequencies
+Option_b: Band reject filter passes frequencies within a certain range
+Option_c: Band pass filter blocks all frequencies
+Option_d: Band pass passes within a range; band reject blocks a range
+correct_option: Band pass passes within a range; band reject blocks a range 
+
+Question246: START
+Explain the significance of the cutoff frequency in a filter design. How does this affect the filter's performance?
+Question246: END
+
+Option_a: It defines where 90% power is transmitted
+Option_b: It is where the output falls to 70.7% of input power
+Option_c: It has no significant effect on performance
+Option_d: It causes full power output at all frequencies
+correct_option: It is where the output falls to 70.7% of input power
+
+
+Question247: START
+If a system requires the elimination of high-frequency noise, which type of filter would you analyze and choose?
+Question247: END
+
+Option_a: High pass filter to block low-frequency signals
+Option_b: Band pass filter to block a wide range
+Option_c: Low pass filter to eliminate high-frequency noise
+Option_d: Band reject filter to eliminate specific noise frequencies
+correct_option: Low pass filter to eliminate high-frequency noise
+
+
+Question248: START
+Examine why an operational amplifier is essential in an active filter circuit. What role does it play in signal processing?
+Question248: END
+
+Option_a: Provides resistance
+Option_b: Supplies capacitance for frequency adjustment
+Option_c: Adds gain and stability to filter performance
+Option_d: Reduces the signal power
+correct_option: Adds gain and stability to filter performance
+
+
+Question249: START
+Analyze the relationship between the highest and lowest cutoff frequencies in a band pass filter. How would this define the filter’s bandwidth?
+Question249: END
+
+Option_a: The sum of the frequencies
+Option_b: The difference between the frequencies
+Option_c: The product of the frequencies
+Option_d: Double the highest frequency
+correct_option: The difference between the frequencies
+
+
+Question250: START
+Consider a scenario where frequencies within a narrow range need to be blocked while all others are allowed. Which filter would you choose and why?
+Question250: END
+
+Option_a: Low pass filter for only low-frequency signals
+Option_b: High pass filter for only high-frequency signals
+Option_c: Band pass filter to allow a specific range
+Option_d: Band reject filter to block a specific frequency range
+correct_option: Band reject filter to block a specific frequency range
+
+Question251: START
+Norton's theorem states that any two-terminal linear network can be replaced by:
+Question251: END
+
+Option_a: A voltage source in series with a resistor 
+Option_b: A current source in parallel with a resistor
+Option_c: A current source in series with a resistor
+Option_d: A voltage source in parallel with a resistor
+correct_option: A current source in parallel with a resistor
+
+Question252: START
+In Norton's theorem, the equivalent current source is called:
+Question252: END
+
+Option_a: Thevenin resistance
+Option_b: Norton resistance
+Option_c: Norton current
+Option_d: Short-circuit current 
+correct_option: Short-circuit current
+
+Question253: START
+To find the Norton resistance of a network, we:
+Question253: END
+
+Option_a: Open-circuit the load
+Option_b: Short-circuit the load
+Option_c: Remove all independent sources
+Option_d: Replace independent sources with their internal resistances
+correct_option: Replace independent sources with their internal resistances
+
+Question254: START
+The relationship between Norton's and Thevenin's equivalent circuits is:
+Question254: END
+
+Option_a: They are completely unrelated
+Option_b: They are inversely proportional
+Option_c: They are duals of each other
+Option_d: They are exactly the same
+correct_option: They are duals of each other
+
+Question255: START
+What is the unit of the Norton current?
+Question255: END
+
+Option_a: Ohm
+Option_b: Ampere
+Option_c: Volt
+Option_d: Siemens
+correct_option: Ampere
+
+Question256: START
+What is the unit of the Norton current?
+Question256: END
+
+Option_a: Ohm
+Option_b: Ampere
+Option_c: Volt
+Option_d: Siemens
+correct_option: Ampere
+
+Question257: START
+Norton’s Theorem is used for
+Question257: END
+
+Option_a: Finding equivalent voltage
+Option_b: Simplifying a circuit for analysis
+Option_c: Calculating complex impedance
+Option_d: Reducing power consumption
+correct_option: Simplifying a circuit for analysis
+
+Question258: START
+Norton’s Theorem is valid for which type of circuits?
+Question258: END
+
+Option_a: Nonlinear circuits
+Option_b: Linear and bilateral circuits
+Option_c: AC circuits only
+Option_d: Unilateral circuits
+correct_option: Linear and bilateral circuits
+Question259: START
+What happens to the Norton current if the resistance in the load increases?
+Question259: END
+
+Option_a: It increases
+Option_b: It decreases
+Option_c: It remains constant
+Option_d: It depends on the voltage
+correct_option: It remains constant
+
+Question260: START
+If the load resistance is equal to the Norton resistance, the power transferred to the load is:
+Question260: END
+
+Option_a: Maximum
+Option_b: Minimum
+Option_c: Zero
+Option_d: Infinite
+correct_option: Maximum
+
+Question261: START
+To convert Thevenin's equivalent circuit to Norton's equivalent circuit
+Question261: END
+
+Option_a: Replace the voltage source with a current source
+Option_b: Replace the resistance with a capacitance
+Option_c: Replace the current source with a voltage source
+Option_d: Short-circuit the Thevenin resistance
+correct_option: Replace the voltage source with a current source
+
+Question262: START
+If the load resistance equals the Thevenin resistance, the power delivered to the load is:
+Question262: END
+
+Option_a: Maximum
+Option_b: Minimum
+Option_c: Zero
+Option_d: Infinite
+correct_option: Maximum
+
+Question263: START
+In a Delta (Δ) connection, the loads are connected:
+Question263: END
+
+Option_a: In parallel
+Option_b: In series
+Option_c: End-to-end in a closed loop
+Option_d: To a common neutral point
+correct_option: End-to-end in a closed loop
+
+
+Question264: START
+What is the advantage of using a Star connection over a Delta connection?
+Question264: END
+
+Option_a: Higher current capacity
+Option_b: Lower line voltage for the same phase voltage
+Option_c: Requires fewer wires for transmission
+Option_d: Allows for a neutral point
+correct_option: Allows for a neutral point
+
+Question265: START
+In which type of connection is a neutral wire typically available?
+Question265: END
+
+Option_a: Star connection
+Option_b: Delta connection
+Option_c: Both Star and Delta connections
+Option_d: Neither
+correct_option: Star connection
+
+Question266: START
+Which connection (Star or Delta) is more commonly used in long-distance power transmission? 
+Question266: END
+
+Option_a: Star connection
+Option_b: Delta connection
+Option_c: Both equally
+Option_d: Neither
+correct_option: Star connection
+
+Question267: START
+The Current Division Rule is primarily based on: 
+Question267: END
+
+Option_a: Kirchhoff’s Voltage Law
+Option_b: Kirchhoff’s Current Law
+Option_c: Ohm’s Law
+Option_d: Conservation of Power
+correct_option: Kirchhoff’s Current Law
+
+Question268: START
+The total resistance of two parallel resistors, R1 and R2, is given by: 
+Question268: END
+
+Option_a: R1+R2
+Option_b: R1 R2/(R1+R2)
+Option_c: R1 R2
+Option_d: R12+R22
+correct_option: R1 R2/(R1+R2)
+
+
+
+Question269: START
+In a series circuit with resistors R1=10Ω, R2=20Ω, and a 30V supply, the voltage across R2 is: 
+Question269: END
+
+Option_a: 10V
+Option_b: 20V
+Option_c: 15V 
+Option_d: 5V
+correct_option: 20V
+
+Question270: START
+If two parallel resistors R1=5 Ω and R2=10 Ω are connected to a 10A source, the current through R1 is: 
+Question270: END
+
+Option_a: 2A
+Option_b: 5A
+Option_c: 6.67A
+Option_d: 10A
+correct_option: 6.67A
+
+Question271: START
+For resistors R1 and R2 in parallel, the resistor with the smaller resistance: 
+Question271: END
+
+Option_a: Carries more current
+Option_b: Carries less current
+Option_c: Carries equal current 
+Option_d: Has no effect on the current
+correct_option: Carries more current
+
+Question272: START
+The Voltage Division Rule is valid only if: 
+Question272: END
+
+Option_a: The circuit is a parallel network
+Option_b: The resistors have equal values
+Option_c: The resistors are connected in series
+Option_d: The resistors are connected to a DC source
+correct_option: The resistors are connected in series
+
+Question273: START
+The Current Division Rule is applicable for:
+Question273: END
+
+Option_a: Resistors in series
+Option_b: Resistors in parallel
+Option_c: Any type of circuit
+Option_d: Capacitors in series
+correct_option: Resistors in parallel
+
+
+Question274: START
+The Voltage Division Rule is used to calculate:
+Question274: END
+
+Option_a: Voltage across series resistors
+Option_b: Voltage across parallel resistors
+Option_c: Current through series resistors
+Option_d: Current through parallel resistors
+correct_option: Voltage across series resistors
+
+Question275: START
+In a parallel circuit, the total current is: 
+Question275: END
+
+Option_a: Equal to the smallest branch current.
+Option_b: Equal to the largest branch current.
+Option_c: The sum of all branch currents 
+Option_d: Zero.
+correct_option: The sum of all branch currents 
+
+Question276: START
+Ohm’s Law applies to: 
+Question276: END
+
+Option_a: Nonlinear circuits
+Option_b: Only AC circuits
+Option_c: Only DC circuits
+Option_d: Both AC and DC circuits
+correct_option: Both AC and DC circuits
+
+Question277: START
+What is the current through a 10Ω resistor when a 5V source is connected across it? 
+Question277: END
+
+Option_a: 0.5A
+Option_b: 2A
+Option_c: 5A 
+Option_d: 10A
+correct_option: 0.5A
+
+Question278: START
+In a circuit, if 10A flows into a junction and 4A flows out, what is the remaining current outflow?
+Question278: END
+
+Option_a: 4A
+Option_b: 6A
+Option_c: 10A
+Option_d: 14A
+correct_option: 6 A
+
+
+
+
+Question279: START
+Kirchhoff's Voltage Law (KVL) is based on the principle of:
+Question279: END
+
+Option_a: Conservation of charge
+Option_b: Conservation of energy
+Option_c: Conservation of momentum
+Option_d: None of the above
+correct_option: Conservation of energy
+
+Question280: START
+Kirchhoff's Current Law (KCL) states: 
+Question280: END
+
+Option_a: The total voltage around a closed loop is zero
+Option_b: The sum of currents entering a junction equals the sum leaving it.
+Option_c: Voltage across a resistor is proportional to the current
+Option_d: Power dissipated is proportional to resistance.
+correct_option: The sum of currents entering a junction equals the sum leaving it.
+
+Question281: START
+A superposition theorem deals with ____ type of supplies connected in an electrical circuit?
+Question281: END
+
+Option_a: Independent
+Option_b: Dependent
+Option_c: Linear
+Option_d: Both b and c
+correct_option: Independent
+
+Question282: START
+Superposition theorem explains about ___ type of network?
+Question282: END
+
+Option_a: Linear
+Option_b: Non-Linear
+Option_c: Zero network
+Option_d: Both b and c
+correct_option: Linear
+
+Question283: START
+Which of the following are included in a superposition based theorem?
+Question283: END
+
+Option_a: Linear networks
+Option_b: AC, DC circuits
+Option_c: Norton
+Option_d: All the above
+correct_option: All the above
+
+Question284: START
+Superposition theorem is applicable for ___ type of analysis?
+Question284: END
+
+Option_a: Network
+Option_b: Electric
+Option_c: Mechanical
+Option_d: Both a and b
+correct_option: Both a and b
+ 
+Question285: START
+Network based analysis is used to identify ______ parameter?
+Question285: END
+
+Option_a: Voltage
+Option_b: Current
+Option_c: Resistance
+Option_d: Both a and b
+correct_option: Both a and b 
+
+Question286: START
+___ is the term that defines a device with 2 or multiple terminals with flow of current?
+Question286: END
+
+Option_a: Component
+Option_b: Node
+Option_c: Mesh
+Option_d: Port
+correct_option: Component
+ 
+Question287: START
+Which of the following are network theorems?
+Question287: END
+
+Option_a: Superposition theorem
+Option_b: Thevenins theorem
+Option_c: Nortons theorem
+Option_d: All the above
+correct_option: All the above
+ 
+Question288: START
+In a superposition theorem the sources act ______?
+Question288: END
+
+Option_a: Independently
+Option_b: Dependently
+Option_c: Constantly
+Option_d: Both a and b
+correct_option: Independently
+
+Question289: START
+Which of the following parameter is calculated via superposition theorem?
+Question289: END
+
+Option_a: Voltage drop
+Option_b: Current drop
+Option_c: Potential difference
+Option_d: Resistance
+correct_option: Voltage drop
+ 
+Question290: START
+Which of the following is the first step of superposition theorem?
+Question290: END
+
+Option_a: Connect DC supply	
+Option_b: Calculate over current flow
+Option_c: Connect voltage source
+Option_d: Calculate each branch current
+correct_option: Connect DC supply
+
+Question291: START
+The MPTT states that maximum power is transferred from a source to a load when the _________________?
+Question291: END
+
+Option_a: Load resistance is maximum
+Option_b: Load resistance is minimum
+Option_c: Source resistance is maximum
+Option_d: Source resistance is equal to the load resistance
+correct_option: Source resistance is equal to the load resistance
+
+Question292: START
+According to the Maximum Power Transfer Theorem, the efficiency of power transfer is __________________?
+Question292: END
+
+Option_a: 50%
+Option_b: 75%
+Option_c: 100%
+Option_d: Depends on the circuit configuration
+correct_option: 
+
+Question293: START
+The Maximum Power Transfer Theorem is applicable for ____________________?
+Question293: END
+
+Option_a: DC circuits
+Option_b: AC circuits
+Option_c: Both DC and AC
+Option_d: Neither DC nor AC
+correct_option: Both DC and AC
+
+Question294: START
+According to the Maximum Power Transfer Theorem, the maximum power transferred to the load is given by ___________________?
+Question294: END
+
+Option_a: P = V^2/R
+Option_b: P = I^2*R
+Option_c: P = V*I
+Option_d: P = R/(V*I)
+correct_option: = I^2*R
+
+Question295: START
+The Maximum Power Transfer Theorem is based on the concept of _________________?
+Question295: END
+
+Option_a: Ohm’s Law
+Option_b: Kirchhoff’s Laws
+Option_c: Thevenin’s Theorem
+Option_d: Superposition Principle 
+correct_option: Thevenin’s Theorem
+
+Question296: START
+Transformer works on ______ principle.
+Question296: END
+
+Option_a: Gauss’s law
+Option_b: Fleming’s right-hand rule
+Option_c: Faraday’s law of electromagnetic induction
+Option_d: Fleming’s left-hand rule
+correct_option: Faraday’s law of electromagnetic induction
+
+Question297: START
+A step-up transformer has _____ number of turns on primary winding and _____ number of turns on secondary winding.
+Question297: END
+
+Option_a: Less, More
+Option_b: More, More
+Option_c: More, Less
+Option_d: Less, Less
+correct_option: Less, More
+
+Question298: START
+A step-down transformer has _____ number of turns on primary winding and _____ number of turns on secondary winding
+Question298: END
+
+Option_a: Less, More
+Option_b: More, More
+Option_c: More, Less
+Option_d: Less, Less
+correct_option: More, Less
+
+Question299: START
+A transformer is a _____ device.
+Question299: END
+
+Option_a: Static
+Option_b: Dynamic
+Option_c: Static and Dynamic
+Option_d: None of the above
+correct_option: Static 
+
+Question300: START
+In a transformer the relation between the input frequency and the output voltage on secondary winding is _____.
+Question300: END
+
+Option_a: Same
+Option_b: increases
+Option_c: decreases
+Option_d: Increases and decreases with time
+correct_option: Same
+
+Question301: START
+Copper losses in a transformer are measured using _____.
+Question301: END
+
+Option_a: Closed circuit
+Option_b: Open circuit
+Option_c: Both a & b
+Option_d: None of the above
+correct_option: Open circuit
+
+Question302: START
+What is the functionality of a breather in a transformer?
+Question302: END
+
+Option_a: It absorbs the moisture of air during breathing
+Option_b: Passes cold air to the transformer
+Option_c: It is the transformer oil filter
+Option_d: Both a & b
+correct_option: It absorbs the moisture of air during breathing
+
+Question303: START
+What is basic functionality of a transformer?
+Question303: END
+
+Option_a: Voltage to current converter
+Option_b: Current to voltage converter
+Option_c: Frequency converter
+Option_d: None of the above
+correct_option: 
+
+Question304: START
+The core of a transformer is laminated for _____ reason
+Question304: END
+
+Option_a: Minimize hysteresis loss
+Option_b: Minimize eddy & hysteresis current loss
+Option_c: Lowers eddy current loss
+Option_d: Copper loss
+correct_option: Lowers eddy current loss
+
+Question305: START
+What is the need of performing a short circuit test in a transformer?
+Question305: END
+
+Option_a: To find copper loss
+Option_b: To find core loss
+Option_c: To find insulation resistance
+Option_d: To find complete loss
+correct_option: To find copper loss
+
+Question306: START
+Which losses in a transformer is zero at full load?
+Question306: END
+
+Option_a: Core loss
+Option_b: Eddy current loss
+Option_c: Copper loss
+Option_d: Friction loss
+correct_option: Eddy current loss
+
+Question307: START
+The current rating of a transformer is expressed as_____.
+Question307: END
+
+Option_a: Kilowatts
+Option_b: KVAR
+Option_c: Kilo-volt-ampere
+Option_d: Ampere
+correct_option: Kilo-volt-ampere
+
+Question308: START
+What is the purpose of oil in an oil-filled transformer?
+Question308: END
+
+Option_a: Insulate
+Option_b: Resistance
+Option_c: Cooling	
+Option_d: Both a & c
+correct_option: Both a & c
+
+Question309: START
+Which of the following component is not related to the transformer?
+Question309: END
+
+Option_a: Breather
+Option_b: Conservator
+Option_c: Buchholz relay
+Option_d: Exciter
+correct_option: Exciter
+
+
+Question310: START
+Which component of the transformer causes noise?
+Question310: END
+
+
+Option_a: Vibration due to mechanical motion
+Option_b: Fan that is used for cooling purpose
+Option_c: Iron core which contains magnetostriction
+Option_d: All the above
+correct_option: Iron core which contains magnetostriction
+
+
+Question311: START
+What is the main objective of conducting a load test on a single-phase induction motor?
+Question311: END
+
+Option_a: To determine the starting current
+Option_b: To evaluate performance under load conditions
+Option_c: To test insulation resistance
+Option_d: To measure winding resistance
+correct_option: To evaluate performance under load conditions
+
+Question312: START
+During a load test on a single-phase induction motor, what does voltage regulation measure?
+Question312: END
+
+Option_a: Speed variation under load
+Option_b: Voltage drop from no load to full load
+Option_c: Power consumption
+Option_d: Efficiency under load
+correct_option: Voltage drop from no load to full load
+
+Question313: START
+Which parameter indicates the efficiency of a single-phase induction motor during a load test?
+Question313: END
+
+Option_a: Torque
+Option_b: Current
+Option_c: Power factor
+Option_d: Power output-to-input ratio
+correct_option: Power output-to-input ratio
+
+Question314: START
+What does LVDT stand for?
+Question314: END
+
+Option_a: Linear Variable Differential Transformer
+Option_b: Load Voltage Differential Transformer
+Option_c: Low Voltage Direct Transformer
+Option_d: Line Voltage Dual Transformer
+correct_option: Linear Variable Differential Transformer
+
+Question315: START
+What is the principle of operation of an LVDT?
+Question315: END
+
+Option_a: Resistance change
+Option_b: Capacitance change
+Option_c: Inductance change
+Option_d: Magnetic flux change
+correct_option: Inductance change
+
+Question316: START
+In an LVDT, which component moves to produce a variable output?
+Question316: END
+
+Option_a: Primary coil
+Option_b: Secondary coil
+Option_c: Magnetic core
+Option_d: Calibration knob
+correct_option: Magnetic core
+
+Question317: START
+The two-wattmeter method is used to measure power in which type of system?
+Question317: END
+
+Option_a: Single-phase AC
+Option_b: Three-phase AC
+Option_c: DC
+Option_d: Mixed-phase system
+correct_option: Three-phase AC
+
+Question318: START
+When does one wattmeter show zero reading in a two-wattmeter method?
+Question318: END
+
+Option_a: Power factor is 1
+Option_b: Power factor is 0
+Option_c: Power factor is 0.5
+Option_d: Power factor is 0.866
+correct_option: Power factor is 0
+
+Question319: START
+In the two-wattmeter method, the total power is calculated as:
+Question319: END
+
+Option_a: W1 × W2
+Option_b: W1 + W2
+Option_c: (W1 - W2)/2
+Option_d: (W1 + W2)/2
+correct_option: W1 + W2
+
+Question320: START
+What does an energy meter measure in an electrical circuit?
+Question320: END
+
+Option_a: Instantaneous power
+Option_b: Total energy consumed
+Option_c: Voltage levels
+Option_d: Current flow
+correct_option: Total energy consumed
+
+Question321: START
+What is the unit of measurement for energy in an energy meter?
+Question321: END
+
+Option_a: Watts
+Option_b: Ampere-hours
+Option_c: Watt-hours
+Option_d: Joules
+correct_option: Watt-hours
+
+Question322: START
+Which type of energy meter is commonly used for residential purposes?
+Question322: END
+
+Option_a: Induction type
+Option_b: Digital type
+Option_c: Electronic type
+Option_d: All of the above
+correct_option: All of the above
+
+Question323: START
+Which component of the induction motor is responsible for inducing EMF in the rotor during operation?
+Question323: END
+
+Option_a: Stator
+Option_b: Rotor windings
+Option_c: Slip rings
+Option_d: Commutator
+correct_option: Stator
+
+Question324: START
+What happens to the efficiency of a single-phase induction motor as the load increases?
+Question324: END
+
+Option_a: Efficiency decreases
+Option_b: Efficiency increases
+Option_c: Efficiency remains constant
+Option_d: Efficiency fluctuates randomly
+correct_option: Efficiency increases
+
+Question325: START
+What is the typical power factor range of a single-phase induction motor under full load?
+Question325: END
+
+Option_a: 0.1 to 0.3
+Option_b: 0.4 to 0.6
+Option_c: 0.7 to 0.9
+Option_d: 1.0
+correct_option: 0.7 to 0.9
+
+Question326: START
+What is the primary advantage of using an LVDT in measurement systems?
+Question326: END
+
+Option_a: High accuracy and reliability
+Option_b: Easy to manufacture
+Option_c: High cost-effectiveness
+Option_d: Limited range of operation
+correct_option: High accuracy and reliability
+
+Question327: START
+What kind of output does an LVDT produce?
+Question327: END
+
+Option_a: Digital output
+Option_b: AC voltage proportional to displacement
+Option_c: DC voltage proportional to displacement
+Option_d: Pulsed signal
+correct_option: AC voltage proportional to displacement
+
+Question328: START
+What is the role of the null position in an LVDT?
+Question328: END
+
+Option_a: Maximum output voltage
+Option_b: Minimum displacement
+Option_c: Zero output voltage
+Option_d: Calibration reference point
+correct_option: Zero output voltage
+
+Question329: START
+In the two wattmeter method, when the power factor is 0.5, what is the ratio of the two wattmeter readings?
+Question329: END
+
+Option_a: Equal readings
+Option_b: Opposite and equal magnitudes
+Option_c: One is double the other
+Option_d: One is zero, and the other is maximum
+correct_option: Opposite and equal magnitudes
+
+Question330: START
+If both wattmeters show positive readings in a two-wattmeter method, what can be concluded about the power factor?
+Question330: END
+
+Option_a: Power factor is less than 0.5
+Option_b: Power factor is greater than 0.5
+Option_c: Power factor is zero
+Option_d: Power factor is negative
+correct_option: Power factor is greater than 0.5
+
+Question331: START
+Which phase sequence is assumed when using the two wattmeter method?
+Question331: END
+
+Option_a: ABC
+Option_b: BAC
+Option_c: Random
+Option_d: No assumption
+correct_option: ABC
+
+Question332: START
+Which of the following can cause errors in energy meter readings?
+Question332: END
+
+Option_a: Temperature variations
+Option_b: Harmonics in the supply
+Option_c: Magnetic interference
+Option_d: All of the above
+correct_option: All of the above
+
+Question333: START
+What is the typical accuracy class of an energy meter used for commercial purposes?
+Question333: END
+
+Option_a: 0.1%
+Option_b: 1%
+Option_c: 5%
+Option_d: 10%
+correct_option: 1%
+
+Question334: START
+Which type of energy meter is preferred for measuring reactive power?
+Question334: END
+
+Option_a: Electromechanical meter
+Option_b: Induction-type watt-hour meter
+Option_c: Digital energy meter
+Option_d: None of the above
+correct_option: Digital energy meter
+
+Question335: START
+Why is an induction motor called a self-starting motor?
+Question335: END
+
+Option_a: It does not require external starting mechanisms
+Option_b: It has high starting torque
+Option_c: It uses capacitor starting
+Option_d: It requires a rotor winding
+correct_option: It does not require external starting mechanisms
+
+Question336: START
+What is the function of slip in an induction motor?
+Question336: END
+
+Option_a: Synchronize rotor and stator speeds
+Option_b: Allow the rotor to lag behind the synchronous speed
+Option_c: Increase power factor
+Option_d: Reduce heat generation
+correct_option: Allow the rotor to lag behind the synchronous speed
+
+Question337: START
+What is the function of damping torque in an energy meter?
+Question337: END
+
+Option_a: To measure power factor
+Option_b: To reduce vibrations and stabilize the pointer
+Option_c: To increase sensitivity
+Option_d: To reduce measurement time
+correct_option: To reduce vibrations and stabilize the pointer
+
+Question338: START
+How is overloading prevented in a wattmeter?
+Question338: END
+
+Option_a: By using a fuse
+Option_b: By limiting the current range
+Option_c: By installing a circuit breaker
+Option_d: By calibrating the wattmeter
+correct_option: By limiting the current range
+Question339: START
+What is the major limitation of an analog energy meter?
+Question339: END
+
+Option_a: Low accuracy
+Option_b: Cannot measure AC power
+Option_c: Cannot measure reactive power
+Option_d: Susceptible to temperature changes
+correct_option: Low accuracy
+
+Question340: START
+Which of the following factors affects the calibration of an LVDT?
+Question340: END
+
+Option_a: Temperature
+Option_b: Core material
+Option_c: Frequency of excitation
+Option_d: All of the above
+correct_option: All of the above
+
+Question 341: START
+Consider the following statements:
+Routh-Hurwitz criterion gives:
+1. Absolute stability
+2. The number of roots lying on the right half of the s-plane
+3. The gain margin and the phase margin
+Question 341: END
+
+Option_a: 1,2 and3
+Option_b: 1 and 2
+Option_c: 2 and 3
+Option_d: 1 and 3
+correct_option: 1 and 2
+
+Question 242: START
+Which of the following techniques is utilized to determine at the actual point at which the root locus crosses the imaginary axis?
+Question 242: END
+
+Option_a: Nyquist technique
+Option_b: Routh-Hurwitz technique
+Option_c: Nichol’s technique
+Option_d: Bode technique
+correct_option: Routh-Hurwitz technique
+
+Question 343: START
+Due to which of the following reasons excessive band width in control systems should be avoided? 
+Question 343: END
+
+Option_a: It leads to slow speed of response
+Option_b: It leads to low relative stability
+Option_c: Noise is proportional to bandwidth
+Option_d: Presence of feedback 
+correct_option: - Noise is proportional to bandwidth
+
+Question 344: START
+The use of feedback element in the feedback loop is: 
+Question 344: END
+
+Option_a: It converts the output variable ‘c’ to another suitable feedback variable ‘b’ to compare with the input command signal.
+Option_b: It is the actuating element
+Option_c: To increase the stability
+Option_d: None of the mentioned
+correct_option: It converts the output variable ‘c’ to another suitable feedback variable ‘b’ to compare with the input command signal
+
+Question 345: START
+ Stability of a system implies that:
+Question 345: END
+
+Option_a: Small changes in the system input does not result in large change in system output
+Option_b: Small changes in the system parameters does not result in large change in system output
+Option_c: Small changes in the initial conditions does not result in large change in system output
+Option_d: All of the above mentioned
+correct_option: All of the above mentioned
+
+Question 346: START
+The necessary condition of stability are: 
+Question 346: END
+
+Option_a: Coefficient of characteristic equation must be real and have the same sign
+Option_b: Coefficient of characteristic equation must be non-zero
+Option_c: Both of the mentioned
+Option_d: Coefficient of characteristic equation must be zero 
+correct_option: Both of the mentioned
+
+Question 347: START
+The Positiveness of the coefficients of characteristic equation is necessary as well as sufficient condition for 
+Question 347: END
+
+Option_a: First order system
+Option_b: Second order system
+Option_c: Third order system
+Option_d: None of the mentioned 
+correct_option: Third order system
+
+Question 348: START
+The slope of the V-I curve is 78°. Calculate the value of resistance. Assume the relationship between voltage and current is a straight line.
+Question 348: END
+
+Option_a: 4.732 Ω
+Option_b: 4.608 Ω
+Option_c: 4.543 Ω
+Option_d: 4.648 Ω
+correct_option: 4.732 Ω
+
+
+
+Question 349: START
+  In a DC shunt motor, speed is related to armature current as 
+Question 349: END
+
+Option_a: Directly proportional to the armature current
+Option_b: Proportional to the square of the current
+Option_c: Independent of armature current
+Option_d: Inversely proportional to the armature current 
+correct_option: Inversely proportional to the armature current
+
+Question 350: START
+  What will be the effect of opening of field of a DC shunt motor while motor is running?
+Question 350: END
+
+Option_a: The speed of motor will be reduced
+Option_b: The armature current will reduce
+Option_c: The motor will attain dangerously high speed
+Option_d: The motor will continue to constant speed 
+correct_option: The motor will attain dangerously high speed
+
+Question 351: START
+ What will be the effect of reducing load on DC shunt motor? 
+Question 351: END
+
+Option_a: Speed will increase abruptly
+Option_b: Speed will increase in proportion to reduction in load
+Option_c: Speed will remain almost constant
+Option_d: Speed will reduce 
+correct_option: - Speed will remain almost constant
+
+Question 352: START
+. Practical reason behind speed of DC shunt motor is proportional to back emf only is Question 352: END
+
+Option_a: Back emf is equal to armature drop
+Option_b: Flux is proportional to field current
+Option_c: Flux is proportional to armature current
+Option_d: Flux is practically constant in DC shunt motors
+
+correct_option: Flux is practically constant in DC shunt motors
+
+Question 353: START
+ The armature torque of the DC shunt motor is proportional to
+Question 353: END
+
+Option_a: Field flux only
+Option_b: Armature current only
+Option_c: Field flux and armature current
+Option_d: Field current 
+correct_option: Armature current only
+
+Question 354: START
+If a DC shunt motor is working at full load and if shunt field circuit suddenly opens  
+Question 354: END
+
+Option_a: Will make armature to take heavy current, possibly burning it
+Option_b: Will result in excessive speed, possibly destroying armature due to excessive centrifugal stresses
+Option_c: Nothing will happen to motor
+Option_d: Motor will come to stop 
+correct_option: Will make armature to take heavy current, possibly burning it
+
+Question 355: START
+  Speed torque characteristic of DC shunt motor is 
+Question 355: END
+
+Option_a: Starting from origin
+Option_b: Starting from speed axis and increasing
+Option_c: Starting from speed axis and decreasing
+Option_d: Starting from speed axis and constant 
+correct_option: Starting from speed axis and decreasing
+
+
+Question 356: START
+In A.C. circuits, power consumed is
+Question 356: END
+
+Option_a: product of voltage and current
+Option_b: it depends on the p.f. of the circuit in addition to voltage and current
+Option_c: it depends on the supply voltage
+Option_d: it depends on the magnitude of the circuit current
+correct_option: it depends on the p.f. of the circuit in addition to voltage and current
+
+Question 357: START
+In a Dynamometer type wattmeter, the fixed coil is split into 
+Question 357: END
+
+Option_a: 4
+Option_b: 3
+Option_c: 2
+Option_d: 1 
+correct_option: 2
+
+
+Question 358: START
+When a current carrying coil is placed in the magnetic field? 
+Question 358: END
+
+Option_a: no force is exerted
+Option_b: voltage is produced
+Option_c: power is generated
+Option_d: a force is exerted 
+correct_option: a force is exerted
+
+
+Question 359: START
+  When the moving coil in a Dynamometer type wattmeter deflects 
+Question 359: END
+Option_a: pointer moves
+Option_b: pointer doesn’t move
+Option_c:  current flows
+Option_d: voltage is generated 
+correct_option: pointer moves
+
+Question 360: START
+Which type of battery is commonly used in modern electric vehicles due to its high energy density and efficiency? 
+Question 360: END
+
+Option_a: Nickel-Cadmium (NiCd)
+Option_b: Lead-Acid
+Option_c: Lithium-Ion (Li-ion)
+Option_d: Alkaline 
+correct_option: Lithium-Ion (Li-ion)
+
+Question 361: START
+Which type of electric vehicle has both an electric motor and an internal combustion engine?
+Question 361: END
+
+Option_a: Battery Electric Vehicle (BEV)
+Option_b: Hybrid Electric Vehicle (HEV)
+Option_c: Plug-in Hybrid Electric Vehicle (PHEV)
+Option_d: Fuel Cell Electric Vehicle (FCEV)
+correct_option: - Plug-in Hybrid Electric Vehicle (PHEV)
+
+Question 362: START
+What is the term used for the energy efficiency of an electric vehicle, measured in miles (or kilometers) driven per unit of energy consumed (e.g., miles per kilowatt-hour)?
+Question 362: END
+
+Option_a: Energy density
+Option_b: Energy efficiency
+Option_c: Range anxiety
+Option_d: Electric vehicle efficiency
+
+correct_option: √ Electric vehicle efficiency
+
+Question 363: START
+ The aluminous if you CNC office sodium vapour lamp is ........lumens per watt
+Question 363: END
+
+Option_a: 40 to 50
+Option_b: 50 to 100
+Option_c: 10 to 12
+Option_d: 100 to 150
+ correct_option: 40 to 50
+
+Question 364: START
+In filament lamps coiled coil filaments are used in 
+Question 364: END 
+
+Option_a:. Coloured lamps
+Option_b: Low wattage lamps
+Option_c: Gas field lamps
+Option_d: Higher wattage lamps
+ correct_option: Gas field lamps
+
+Question 365: START
+   Filament lamps normally operate at a power factor of
+Question 365: END
+
+Option_a: Unity
+Option_b: 0.8 lagging
+Option_c: 0.5 lagging
+Option_d: 0.9 lagging
+ correct_option: Unity
+
+Question 366: START
+In a series RLC circuit, the phase difference between the current in the capacitor and the current in the resistor is? 
+Question 366: END
+
+Option_a: 00
+Option_b: 900
+Option_c: 1800
+Option_d: 3600 
+correct_option: 00
+
+
+Question 367: START
+ In a series RLC circuit, the phase difference between the current in the circuit and the voltage across the capacitor is?
+Question 367: END
+
+Option_a: 00
+Option_b: 900
+Option_c: 1800
+Option_d: 3600 
+correct_option: 900
+
+Question 368: START
+ _________ the resonant frequency, the current in the capacitor leads the voltage in a series RLC circuit.
+Question 368: END
+
+Option_a: Above
+Option_b: Below
+Option_c: Equal to
+Option_d: Depends on the circuit
+correct_option: Below
+
+Question 369: START
+ A current of 2A flows in a wire offering a resistance of 10ohm. Calculate the energy dissipated by the wire in 0.5 hours.
+Question 369: END
+
+Option_a: 72Wh
+Option_b: 72kJ
+Option_c: 7200J
+Option_d: 72kJh 
+correct_option: 72kJ
+
+Question 370: START
+The current in the inductor ___________ the voltage in a series RLC circuit above the resonant frequency.
+Question 370: END
+
+Option_a: Leads
+Option_b: Lags
+Option_c: Equal to
+Option_d: Depends on the circuit
+correct_option: Lags
+Question371: START
+Ramp signal is primarily used to test:
+Question371: END
+
+Option_a: Steady-state response 
+Option_b: Stability 
+Option_c: Transient response 
+Option_d: All of the above
+correct_option: Steady-state response
+
+Question372: START
+High pass filters are commonly used in:
+Question372: END
+
+Option_a: Tweeters to allow high frequencies
+Option_b: Subwoofers to boost bass
+Option_c: Band-reject filters
+Option_d: Time-domain analysis
+correct_option: Tweeters to allow high frequencies
+
+Question373: START
+A high pass filter is used in audio systems to:
+Question373: END
+
+Option_a: Suppress low-frequency interference
+Option_b: Enhance bass frequencies
+Option_c: Eliminate high frequencies
+Option_d: Pass all signals
+correct_option: Suppress low-frequency interference
+
+Question374: START
+Low pass filters are typically applied in:
+Question374: END
+
+Option_a: Audio bass enhancement
+Option_b: High-frequency signal analysis
+Option_c: Frequency band isolation
+Option_d: Noise suppression 
+correct_option: Noise suppression
+
+
+Question375: START
+A low pass filter is used in anti-aliasing to:
+Question375: END
+
+Option_a: Allow low frequencies while blocking high frequencies
+Option_b: Block low frequencies while passing high frequencies
+Option_c: Pass all frequencies
+Option_d: Mirror frequencies
+correct_option: Allow low frequencies while blocking high frequencies
+
+Question376: START
+Impulse Invariant Transformation is less suitable for:
+Question376: END
+
+Option_a: High-pass filters
+Option_b: Low-pass filters
+Option_c: Band-pass filters
+Option_d: Systems with high-frequency content
+correct_option: Systems with high-frequency content
+
+
+
+Question377: START
+In Impulse Invariant Transformation, high sampling frequency is necessary to:
+Question377: END
+
+Option_a: Avoid aliasing
+Option_b: Preserve impulse response
+Option_c: Simplify computation
+Option_d: Reduce filter order
+correct_option: Avoid aliasing
+
+Question378: START
+Which of the following characteristics is preserved in Impulse Invariant Transformation?
+Question378: END
+
+Option_a: Frequency response
+Option_b: Impulse response timing
+Option_c: Phase response
+Option_d: Stability of the system
+correct_option: Impulse response timing
+
+
+Question379: START
+Pre-warping is applied in Bilinear Transformation to:
+Question379: END
+
+Option_a: Avoid aliasing
+Option_b: Improve time-domain response
+Option_c: Match analog and digital frequencies
+Option_d: Reduce computational complexity
+correct_option: Match analog and digital frequencies
+
+
+Question380: START
+A major drawback of Bilinear Transformation is:
+Question380: END
+
+Option_a: Aliasing
+Option_b: Time-domain mismatch
+Option_c: Frequency warping
+Option_d: Non-causal response
+correct_option: Frequency warping
+
+Question381: START
+Frequency warping in the Bilinear Transformation affects:
+Question381: END
+
+Option_a: Low frequencies
+Option_b: High frequencies
+Option_c: Entire frequency range equally
+Option_d: Does not affect frequency response
+correct_option: High frequencies
+
+
+Question382: START
+The primary purpose of the Bilinear Transformation in filter design is:
+Question382: END
+
+Option_a: Frequency response preservation
+Option_b: Mapping analog frequencies to digital frequencies without aliasing
+Option_c: Simplification of filter order
+Option_d: Exact time-domain matching
+correct_option: Mapping analog frequencies to digital frequencies without aliasing
+
+Question383: START
+The butterfly operation in DIF-FFT differs from DIT-FFT in:
+Question383: END
+
+Option_a: Order of applying the twiddle factors
+Option_b: Number of twiddle factors used
+Option_c: Memory complexity
+Option_d: Type of arithmetic operations
+correct_option: Order of applying the twiddle factors
+
+Question384: START
+DIF-FFT is preferred over DIT-FFT when:
+Question384: END
+
+Option_a: Input sequence is in natural order
+Option_b: Higher memory usage is acceptable
+Option_c: Hardware implementation is required
+Option_d: Output needs to be in bit-reversed order
+correct_option: Input sequence is in natural order
+
+
+Question385: START
+What distinguishes the DIF-FFT from the DIT-FFT?
+Question385: END
+
+Option_a: Decimation of the input in DIF-FFT
+Option_b: Bit-reversal at output in DIF-FFT
+Option_c: Twiddle factor application after butterfly computation in DIF-FFT
+Option_d: Use of complex arithmetic in DIF-FFT
+correct_option: Bit-reversal at output in DIF-FFT
+
+Question386: START
+In the DIF-FFT algorithm, the primary operation at each stage is:
+Question386: END
+Option_a: Bit-reversal of the input
+Option_b: Decimation in the output sequence
+Option_c: Multiplication with the Fourier coefficients
+Option_d: Addition of twiddle factors
+correct_option: Decimation in the output sequence
+
+Question387: START
+DIT-FFT is typically used when:
+Question387: END
+
+Option_a: Input sequence is in bit-reversed order
+Option_b: Output sequence is in natural order
+Option_c: Complex arithmetic is minimal
+Option_d: Twiddle factors are precomputed
+correct_option: Input sequence is in bit-reversed order
+
+
+Question388: START
+What operation is central to each stage of the DIT-FFT?
+Question388: END
+
+Option_a: Addition of twiddle factors
+Option_b: Multiplication of twiddle factors
+Option_c: Butterfly computations
+Option_d: Sorting of coefficients
+correct_option: Butterfly computations
+
+
+Question389: START
+Op In the DIT-FFT algorithm, how is the input sequence processed?
+Question389: END
+
+Option_a: Decimation in the output sequence
+Option_b: Decimation in the input sequence
+Option_c: Both input and output decimated
+Option_d: None of the above
+correct_option: Decimation in the input sequence
+
+
+
+Question390: START
+The integral of the unit impulse signal δ(t) over all time is:
+ Question390: END
+
+Option_a: 0
+Option_b: 1
+Option_c: Infinity
+Option_d: Undefined
+correct_option: 1
+
+Question391: START
+A band reject filter is also known as a:
+Question391: END
+
+Option_a: Low pass filter
+Option_b: High pass filter
+Option_c: Band stop filter
+Option_d: Band pass filter
+correct_option:  Band stop filter
+
+Question392: START
+Band reject filters are primarily used to:
+Question392: END
+
+Option_a: Pass all frequencies within a specific range
+Option_b: Block frequencies outside a specific range
+Option_c: Eliminate a specific narrow frequency range
+Option_d: Enhance a specific narrow frequency range
+correct_option:  Eliminate a specific narrow frequency range
+
+
+
+Question393: START
+A typical application of a band reject filter is:
+Question393: END
+
+Option_a: Suppressing 60 Hz power line interference
+Option_b: Enhancing bass in audio systems
+Option_c: Filtering all low frequencies in a signal
+Option_d: Amplifying high-frequency signals
+correct_option:  Suppressing 60 Hz power line interference
+
+Question394: START
+The key characteristic of a notch filter is:
+Question394: END
+
+Option_a: Passing all frequencies uniformly
+Option_b: Allowing frequencies outside the stop band
+Option_c: Attenuating a very narrow frequency range
+Option_d: Amplifying signals within the stop band
+correct_option:  Attenuating a very narrow frequency range
+
+Question395: START
+In wireless communication, a band reject filter is useful for:
+Question395: END
+
+Option_a: Isolating specific communication channels
+Option_b: Eliminating interference from neighboring frequency bands
+Option_c: Enhancing data transmission rates
+Option_d: Amplifying high-frequency noise
+correct_option:  Eliminating interference from neighboring frequency bands
+
+
+Question396: START
+A band pass filter is designed to:
+Question396: END
+
+Option_a: Pass frequencies within a specified range and attenuate others
+Option_b: Block all frequencies below a certain value
+Option_c: Pass low frequencies while blocking high frequencies
+Option_d: Block low frequencies while passing high frequencies
+correct_option:  Pass frequencies within a specified range and attenuate others
+
+Question397: START
+Band pass filters are commonly used in:
+Question397: END
+
+Option_a: Eliminating specific frequency bands
+Option_b: Amplifying high-frequency signals
+Option_c: Audio systems to isolate vocal ranges
+Option_d: Noise reduction in power supplies
+correct_option:  Audio systems to isolate vocal ranges
+
+Question398: START
+The bandwidth of a band pass filter is determined by:
+Question398: END
+
+Option_a: The sum of the cutoff frequencies
+Option_b: The difference between the cutoff frequencies
+Option_c: The ratio of the cutoff frequencies
+Option_d: The product of the cutoff frequencies
+correct_option:  The difference between the cutoff frequencies
+
+
+Question399: START
+Band pass filters are most effective for:
+Question399: END
+
+Option_a: Allowing all frequency components
+Option_b: Enhancing signals within a specific range
+Option_c: Blocking high-frequency noise
+Option_d: General signal amplification
+correct_option:  Enhancing signals within a specific range
+
+Question400: START
+In a band pass filter, the roll-off rate at the cutoff frequencies is determined by:
+Question400: END
+
+Option_a: The gain of the filter
+Option_b: The order of the filter
+Option_c: The bandwidth of the filter
+Option_d: The input signal strength
+correct_option:  The order of the filter
